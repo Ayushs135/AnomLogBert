@@ -1,0 +1,1328 @@
+Jul 18 23:01:27 combo sshd(pam_unix)[28985]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw
+Feb  7 05:47:11 combo sshd(pam_unix)[4246]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-219-105-155.hinet-ip.hinet.net  user=root
+Jun 29 12:11:53 combo sshd(pam_unix)[15692]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+Feb 27 06:47:22 combo sshd(pam_unix)[6674]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host81-137-10-194.in-addr.btopenworld.com
+Feb  5 18:17:56 combo sshd(pam_unix)[4097]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.154.205.252  user=root
+Sep 20 19:59:23 combo sshd(pam_unix)[7669]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.185.162.130  user=root
+Jan 16 12:54:14 combo sshd(pam_unix)[2905]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.178.20.170  user=test
+Feb 24 05:45:21 combo sshd(pam_unix)[6150]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=206.51.234.204  user=root
+Jun 18 01:30:59 combo sshd(pam_unix)[31199]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+Jan 14 06:58:36 combo sshd(pam_unix)[24841]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36  user=root
+Nov 25 15:36:14 combo sshd(pam_unix)[14886]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.164.165.108  user=test
+Sep 13 10:08:23 combo sshd(pam_unix)[27630]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dpc6682015008.direcpc.com  user=root
+Nov 23 13:41:08 combo kernel: httpd: page allocation failure. order:0, mode:0xd2
+Feb 24 11:16:38 combo sshd(pam_unix)[6245]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=83.228.113.166  user=root
+Feb  1 21:35:58 combo sshd(pam_unix)[3940]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.135.191.21  user=test
+Jan 27 17:32:18 combo sshd(pam_unix)[3340]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.82.188.147  user=nobody
+Nov 15 07:03:34 combo sshd(pam_unix)[30644]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.108.234.71  user=root
+Jan 26 12:23:26 combo kernel: audit(1138296206.190:718151): avc:  denied  { name_bind } for  pid=2309 exe=/usr/sbin/ntpd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ntp_port_t tclass=udp_socket
+Dec  2 08:39:43 combo sshd(pam_unix)[20023]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.3
+Feb 19 11:29:54 combo sshd(pam_unix)[5376]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.168.14.22
+Oct  4 06:40:49 combo sshd(pam_unix)[22914]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com
+Feb 20 12:14:23 combo sshd(pam_unix)[5698]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vedgi-gw.rosprint.net
+Feb 23 12:02:26 combo sshd(pam_unix)[6070]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=175.red-80-34-110.staticip.rima-tde.net  user=fax
+Jul 10 16:02:09 combo sshd(pam_unix)[30572]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:03:12 combo sshd(pam_unix)[30674]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jan 17 10:46:50 combo sshd(pam_unix)[6374]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pppzss.shenzhen.gd.cn  user=nobody
+Feb 22 11:46:38 combo sshd(pam_unix)[5995]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203186089173.ctinets.com  user=root
+Jul 10 16:02:01 combo sshd(pam_unix)[30562]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jan 17 10:46:54 combo sshd(pam_unix)[6383]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pppzss.shenzhen.gd.cn  user=nobody
+Jul 19 07:35:41 combo sshd(pam_unix)[30501]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180  user=root
+Feb  9 00:57:41 combo sshd(pam_unix)[4399]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-145-62-59.adsl.ttn.net  user=test
+Nov 25 10:07:34 combo sshd(pam_unix)[14028]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=xdsl-5103.wroclaw.dialog.net.pl  user=test
+Sep 25 14:06:34 combo sshd(pam_unix)[23209]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Jan 23 10:49:34 combo sshd(pam_unix)[29174]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Feb 13 15:56:40 combo sshd(pam_unix)[4835]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.107.1.198  user=root
+Aug 29 07:22:39 combo sshd(pam_unix)[821]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Aug 24 11:25:58 combo sshd(pam_unix)[21971]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.78.209.108  user=root
+Feb  2 11:34:17 combo sshd(pam_unix)[3966]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c-69-248-142-135.hsd1.nj.comcast.net
+Jan 30 23:13:46 combo sshd(pam_unix)[3599]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=206-248-137-78.dsl.teksavvy.com  user=test
+Nov  9 20:57:09 combo sshd(pam_unix)[28836]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=wcn3.tisnet.net.tw  user=root
+Nov 21 12:41:12 combo kernel: httpd: page allocation failure. order:0, mode:0xd2
+Jun 22 03:17:36 combo sshd(pam_unix)[16213]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 29 12:12:02 combo sshd(pam_unix)[15704]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+Feb  2 12:25:33 combo sshd(pam_unix)[4003]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.136.20.50  user=root
+Feb  6 23:01:50 combo sshd(pam_unix)[4189]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.228.173.152  user=root
+Feb  1 02:06:58 combo sshd(pam_unix)[3850]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=216.120.255.208  user=root
+Aug 24 14:57:13 combo sshd(pam_unix)[22297]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.95.232.206  user=root
+Oct 14 13:15:00 combo sshd(pam_unix)[5390]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.82.89.30
+Feb  1 00:36:22 combo sshd(pam_unix)[3830]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=64.77.164.126  user=root
+Nov 17 14:28:09 combo sshd(pam_unix)[6364]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.98.81.12  user=root
+Jun 30 20:53:06 combo klogind[19277]: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+Dec  9 09:54:34 combo telnetd[16135]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Jan 15 05:10:03 combo sshd(pam_unix)[31714]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=connect.borran.com  user=adm
+Nov 15 07:03:34 combo sshd(pam_unix)[30641]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.108.234.71  user=root
+Jan 14 16:54:44 combo sshd(pam_unix)[25753]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-77-13.hinet-ip.hinet.net
+Feb 24 07:13:15 combo sshd(pam_unix)[6170]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=83.228.113.166  user=root
+Jan 23 10:49:34 combo sshd(pam_unix)[29188]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Jan 26 12:22:40 combo kernel: audit(1138296123.351:395836): avc:  denied  { read } for  pid=1437 exe=/sbin/iptables name=modprobe dev= ino=-268435402 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysctl_modprobe_t tclass=file
+Sep 25 14:07:47 combo sshd(pam_unix)[23248]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Jan 14 16:54:44 combo sshd(pam_unix)[25766]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-220-228-117-138.nh.sparqnet.net
+Jun 14 03:00:10 combo sshd(pam_unix)[18026]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.101.42.106  user=root
+Nov 11 04:35:26 combo sshd(pam_unix)[15652]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68-119-96-37.static.jcsn.tn.charter.com
+Feb 15 18:54:14 combo sshd(pam_unix)[5039]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=xdsl-81-173-145-209.netcologne.de  user=test
+Sep  4 10:31:03 combo sshd(pam_unix)[27564]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.74.86.1
+Nov 16 13:47:52 combo rpc.statd[1605]: gethostbyname error for ^X���^X���^Z���^Z���%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Jan 19 02:44:09 combo sshd(pam_unix)[10540]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.129.57.24  user=root
+Jul 10 16:02:27 combo sshd(pam_unix)[30604]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Oct  9 15:10:02 combo sshd(pam_unix)[14492]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.90.241.7  user=root
+Jan 19 04:13:51 combo sshd(pam_unix)[12251]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.108.13.91  user=test
+Jan 23 13:19:52 combo sshd(pam_unix)[29460]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.232.48.98  user=test
+Jun 12 01:12:13 combo sshd(pam_unix)[7822]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4  user=test
+Sep 25 14:16:35 combo sshd(pam_unix)[23311]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Jun 15 14:53:32 combo sshd(pam_unix)[23663]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+Feb  8 18:39:52 combo sshd(pam_unix)[4347]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.166.155.143  user=root
+Feb 24 10:39:45 combo sshd(pam_unix)[6223]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=206.51.234.204  user=root
+Aug 30 11:31:16 combo sshd(pam_unix)[4187]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=63.126.79.65  user=root
+Sep 22 05:18:08 combo sshd(pam_unix)[12965]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.204.224.125  user=root
+Aug  7 11:33:59 combo telnetd[16731]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Aug 29 23:53:07 combo sshd(pam_unix)[2380]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dms.geos.ntnu.edu.tw
+Jan 26 12:24:01 combo kernel: audit(1138296225.596:965628): avc:  denied  { setattr } for  pid=2417 exe=/usr/bin/gdm-binary name=.gdmfifo dev=hda2 ino=943272 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=fifo_file
+Oct  4 06:07:33 combo sshd(pam_unix)[22341]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Nov 24 09:36:48 combo sshd(pam_unix)[9865]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ev1s-216-127-80-2.ev1servers.net
+Jul 10 16:33:03 combo sshd(pam_unix)[30737]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141  user=root
+Aug  8 23:19:28 combo sshd(pam_unix)[21624]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.233.9.185  user=root
+Feb 22 13:26:34 combo sshd(pam_unix)[6021]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.194.58.127  user=root
+Feb  6 01:42:06 combo sshd(pam_unix)[4112]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.86.92.242  user=root
+Sep 17 13:19:29 combo sshd(pam_unix)[8461]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-64-171-127-90.dsl.sndg02.pacbell.net  user=root
+Sep  2 13:33:02 combo sshd(pam_unix)[14496]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.109.97.31  user=root
+Feb 20 07:24:30 combo sshd(pam_unix)[5624]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.14.28.60  user=root
+Jan 13 20:11:45 combo sshd(pam_unix)[23191]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.118.170.60  user=root
+Oct  4 07:59:23 combo sshd(pam_unix)[24234]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Aug 27 05:08:09 combo sshd(pam_unix)[23091]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.99.33.2  user=root
+Aug  2 11:24:59 combo sshd(pam_unix)[25518]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=200.150.146.123
+Sep 22 05:17:16 combo sshd(pam_unix)[12941]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.204.224.125  user=root
+Jul  1 10:56:42 combo sshd(pam_unix)[22271]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+Jun 14 11:56:36 combo sshd(pam_unix)[19595]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.233.12.249  user=root
+Feb 19 02:34:59 combo sshd(pam_unix)[5336]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=200-103-106-42.pvoce700-nrp1.e.brasiltelecom.net.br  user=root
+Jan 30 23:13:43 combo sshd(pam_unix)[3595]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=206-248-137-78.dsl.teksavvy.com  user=test
+Feb 24 10:39:45 combo sshd(pam_unix)[6216]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=206.51.234.204  user=root
+Sep 26 07:41:56 combo sshd(pam_unix)[26488]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=83-103-43-98.ip.fastwebnet.it  user=root
+Feb 15 18:54:12 combo sshd(pam_unix)[5028]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=xdsl-81-173-145-209.netcologne.de  user=test
+Jan 12 13:14:34 combo sshd(pam_unix)[18918]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36  user=root
+Jul  1 10:56:42 combo sshd(pam_unix)[22270]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+Feb 19 02:34:59 combo sshd(pam_unix)[5338]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=200-103-106-42.pvoce700-nrp1.e.brasiltelecom.net.br  user=root
+Feb  5 18:17:46 combo sshd(pam_unix)[4085]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.154.205.252  user=root
+Jan 17 20:41:17 combo sshd(pam_unix)[7199]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.162.81.22
+Aug 22 09:28:23 combo sshd(pam_unix)[15017]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.191.53.101  user=root
+Aug 27 05:08:09 combo sshd(pam_unix)[23092]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.99.33.2  user=root
+Feb 11 12:02:20 combo sshd(pam_unix)[4650]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.178.20.170  user=test
+Oct  2 10:12:37 combo sshd(pam_unix)[19641]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.75.224.23  user=root
+Nov 19 11:52:22 combo sshd(pam_unix)[13970]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Jan 26 12:22:43 combo kernel: audit(1138296132.911:505629): avc:  denied  { relabelfrom } for  pid=1788 exe=/sbin/restorecon name=ptal-mlcd dev=hda2 ino=1502894 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=dir
+Jul 18 23:01:26 combo sshd(pam_unix)[28983]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw
+Oct 10 04:03:10 combo sshd(pam_unix)[16544]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=142.179.221.122  user=test
+Feb 15 14:10:49 combo sshd(pam_unix)[5009]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.95.1.26  user=root
+Jan 12 09:49:04 combo sshd(pam_unix)[18625]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.145.53.114  user=root
+Oct  9 09:19:41 combo sshd(pam_unix)[13880]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.153.147.92  user=test
+Oct 14 01:54:27 combo sshd(pam_unix)[2444]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=www.lssu.edu  user=test
+Jun 13 10:18:09 combo sshd(pam_unix)[16517]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.153.202.254  user=root
+Feb 16 23:54:05 combo sshd(pam_unix)[5160]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=69.42.162.212  user=root
+Feb 20 12:14:28 combo sshd(pam_unix)[5707]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vedgi-gw.rosprint.net
+Dec  9 09:24:03 combo telnetd[15612]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Dec  6 12:22:59 combo kernel: PCI: Invalid ACPI-PCI IRQ routing table
+Nov 18 11:10:40 combo sshd(pam_unix)[10316]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=153.19.130.15  user=root
+Oct  3 17:52:59 combo sshd(pam_unix)[3613]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com
+Jul 11 03:46:16 combo sshd(pam_unix)[31862]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128  user=root
+Jan 30 11:30:56 combo sshd(pam_unix)[3543]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.135.191.21
+Jan 14 06:58:59 combo sshd(pam_unix)[24855]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36  user=root
+Aug 29 23:53:07 combo sshd(pam_unix)[2383]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dms.geos.ntnu.edu.tw
+Jun 29 10:08:19 combo sshd(pam_unix)[15488]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+Jan 22 16:37:17 combo sshd(pam_unix)[25838]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.129.113.52  user=root
+Aug 23 12:41:41 combo sshd(pam_unix)[19060]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.233.3.13
+Oct 23 12:40:10 combo klogind[22527]: Authentication failed from 81.181.213.88 (88-213-181-81-cable.canals.ro): Software caused connection abort
+Feb 22 11:46:38 combo sshd(pam_unix)[5996]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203186089173.ctinets.com  user=root
+Dec  9 09:31:09 combo telnetd[15630]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Jan 31 18:44:59 combo sshd(pam_unix)[3799]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.100.28.173  user=root
+Nov 29 04:43:35 combo kernel: httpd: page allocation failure. order:0, mode:0xd2
+Jan 19 14:55:28 combo sshd(pam_unix)[13245]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=80.191.68.130  user=root
+Jan 12 09:49:02 combo sshd(pam_unix)[18619]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.145.53.114  user=root
+Aug  4 07:00:29 combo sshd(pam_unix)[31674]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=arx58.internetdsl.tpnet.pl
+Jan 23 13:29:33 combo sshd(pam_unix)[29488]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Jul  1 00:21:31 combo sshd(pam_unix)[19643]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Dec  9 08:47:40 combo telnetd[15495]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Jan 26 12:22:18 combo kernel: audit(1138296102.617:183467): avc:  denied  { getattr } for  pid=635 exe=/bin/bash path=/sys/devices/pci0000:00/0000:00:1f.2/usb1/bNumConfigurations dev= ino=1290 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysfs_t tclass=file
+Feb 10 06:02:16 combo sshd(pam_unix)[4493]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=web003.knoxville.xxpansion.net  user=root
+Sep 21 02:47:36 combo sshd(pam_unix)[8308]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=user-12ldoks.cable.mindspring.com
+Feb 19 11:29:53 combo sshd(pam_unix)[5374]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.168.14.22
+Jul 10 16:02:23 combo sshd(pam_unix)[30595]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Feb  2 12:25:21 combo sshd(pam_unix)[3985]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.136.20.50  user=root
+Jan 16 12:39:28 combo sshd(pam_unix)[2864]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.118.94.55
+Jul 15 01:03:49 combo sshd(pam_unix)[12645]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root
+Nov 14 20:33:48 combo sshd(pam_unix)[28800]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=mail.ntsec.gov.tw
+Nov 24 09:36:48 combo sshd(pam_unix)[9867]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ev1s-216-127-80-2.ev1servers.net
+Jan 17 10:46:50 combo sshd(pam_unix)[6370]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pppzss.shenzhen.gd.cn  user=nobody
+Feb 24 15:43:45 combo sshd(pam_unix)[6292]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-69-230-112-80.dsl.scrm01.pacbell.net
+Jul  5 13:36:37 combo sshd(pam_unix)[6560]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.229.150.228
+Aug 29 07:23:41 combo sshd(pam_unix)[926]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Nov  9 20:57:09 combo sshd(pam_unix)[28821]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=wcn3.tisnet.net.tw  user=root
+Jul 20 23:37:40 combo sshd(pam_unix)[3306]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.55.234.102
+Nov 30 05:33:03 combo sshd(pam_unix)[7636]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip67-94-174-130.z174-94-67.customer.algx.net
+Jan 17 20:40:57 combo sshd(pam_unix)[7189]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.162.81.22
+Aug  7 11:34:01 combo telnetd[16739]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Jul 12 06:09:45 combo sshd(pam_unix)[4058]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net  user=root
+Nov 19 22:42:40 combo sshd(pam_unix)[15470]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.126.92.146  user=root
+Nov 26 06:45:12 combo sshd(pam_unix)[18592]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.35.204.36  user=root
+Jan 20 11:27:10 combo sshd(pam_unix)[15788]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-222-8-50.hinet-ip.hinet.net
+Jan 24 16:40:21 combo sshd(pam_unix)[32589]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=66.199.253.10  user=root
+Jan 19 09:31:01 combo sshd(pam_unix)[12771]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.100.127.12  user=root
+Jun 22 04:30:55 combo sshd(pam_unix)[17129]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+Nov 22 14:31:40 combo kernel: httpd: page allocation failure. order:0, mode:0x50
+Nov 19 11:36:58 combo sshd(pam_unix)[13932]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Jan 26 12:20:09 combo mysqld: Stopping MySQL:  failed
+Jan 22 16:37:15 combo sshd(pam_unix)[25832]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.129.113.52  user=root
+Jul 10 16:02:01 combo sshd(pam_unix)[30564]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jan 19 02:44:29 combo sshd(pam_unix)[10562]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.129.57.24  user=root
+Jan 28 21:02:44 combo sshd(pam_unix)[3380]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.162.81.22  user=test
+Nov 22 09:35:35 combo kernel: httpd: page allocation failure. order:0, mode:0x1d2
+Oct 14 01:54:27 combo sshd(pam_unix)[2445]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=www.lssu.edu  user=test
+Aug  1 12:24:31 combo sshd(pam_unix)[22141]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=194.78.219.195
+Nov 23 08:16:17 combo kernel: httpd: page allocation failure. order:0, mode:0xd2
+Feb 15 14:10:37 combo sshd(pam_unix)[4993]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.95.1.26  user=root
+Aug  7 09:01:58 combo sshd(pam_unix)[16507]: 6 more authentication failures; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ned.gcdtech.com  user=root
+Jun 14 03:00:15 combo sshd(pam_unix)[18042]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.101.42.106  user=root
+Jan 30 11:30:56 combo sshd(pam_unix)[3550]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.135.191.21
+Aug  8 06:26:30 combo login(pam_unix)[2831]: authentication failure; logname=LOGIN uid=0 euid=0 tty=tty2 ruser= rhost=
+Aug 31 19:10:46 combo sshd(pam_unix)[8526]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=213.197.195.245
+Jan 23 10:13:47 combo sshd(pam_unix)[29124]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Jun 29 10:08:20 combo sshd(pam_unix)[15490]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+Aug  7 09:01:09 combo sshd(pam_unix)[16486]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ned.gcdtech.com  user=root
+Aug 31 13:27:42 combo sshd(pam_unix)[8005]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.178.126.40  user=root
+Jan 30 11:25:55 combo sshd(pam_unix)[3522]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=mail.fullerproperties.com  user=root
+Feb 19 02:35:03 combo sshd(pam_unix)[5351]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=200-103-106-42.pvoce700-nrp1.e.brasiltelecom.net.br  user=root
+Oct 21 03:56:36 combo sshd(pam_unix)[10089]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=solutions93.cobalt.com  user=root
+Feb 10 07:43:21 combo sshd(pam_unix)[4553]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.0.200.7
+Feb 12 06:22:54 combo sshd(pam_unix)[4711]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=66-195-16-3.dimenoc.com  user=root
+Jan 14 20:25:02 combo sshd(pam_unix)[26092]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36  user=root
+Jan 22 16:37:08 combo sshd(pam_unix)[25820]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.129.113.52  user=root
+Jul  1 10:56:41 combo sshd(pam_unix)[22277]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+Feb 13 15:56:30 combo sshd(pam_unix)[4831]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.107.1.198  user=root
+Nov 25 15:36:14 combo sshd(pam_unix)[14884]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.164.165.108  user=test
+Nov 25 15:36:14 combo sshd(pam_unix)[14885]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.164.165.108  user=test
+Jan 26 12:22:13 combo kernel: audit(1138278092.998:114103): avc:  denied  { create } for  pid=513 exe=/usr/X11R6/bin/Xorg name=XFree86.0.log scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ramfs_t tclass=file
+Jan 12 09:48:58 combo sshd(pam_unix)[18613]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.145.53.114  user=root
+Jan 26 12:53:14 combo kernel: audit(1138297993.581:1376686): avc:  denied  { noatsecure } for  pid=3130 exe=/bin/bash scontext=system_u:system_r:kernel_t tcontext=root:sysadm_r:sysadm_t tclass=process
+Jan 10 10:12:58 combo sshd(pam_unix)[8697]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.43.187.219
+Jan 24 01:08:17 combo sshd(pam_unix)[30496]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host-213.50.3.6.addr.tdcsong.se  user=root
+Oct 11 05:13:04 combo sshd(pam_unix)[23067]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.32.209.188  user=root
+Aug 24 11:26:00 combo sshd(pam_unix)[21975]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.78.209.108  user=root
+Feb  1 02:07:00 combo sshd(pam_unix)[3852]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=216.120.255.208  user=root
+Aug 29 23:53:11 combo sshd(pam_unix)[2393]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dms.geos.ntnu.edu.tw
+Jul  4 19:16:00 combo sshd(pam_unix)[3399]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+Jan 26 12:22:44 combo kernel: audit(1138296160.393:589517): avc:  denied  { name_bind } for  pid=2013 exe=/usr/sbin/xinetd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:rlogin_port_t tclass=tcp_socket
+Jan 15 16:47:40 combo sshd(pam_unix)[32753]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212-41-230-229.hebragasse.xdsl-line.inode.at  user=root
+Oct 16 21:24:07 combo sshd(pam_unix)[23391]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85-95-176-2.saransk.ru
+Jun 11 09:46:31 combo sshd(pam_unix)[6496]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Sep  4 20:24:24 combo sshd(pam_unix)[28579]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.109.97.31  user=root
+Nov 19 11:06:25 combo sshd(pam_unix)[13754]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.198.225.248  user=root
+Oct 15 03:48:38 combo sshd(pam_unix)[8208]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=mail.3-plan.ru  user=root
+Aug 24 14:57:14 combo sshd(pam_unix)[22310]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.95.232.206  user=root
+Feb 16 23:54:02 combo sshd(pam_unix)[5158]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=69.42.162.212  user=root
+Aug 25 18:30:40 combo sshd(pam_unix)[26310]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.99.254.124  user=root
+Aug  1 14:17:16 combo sshd(pam_unix)[22344]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=fastfood.com.pe  user=root
+Jan 12 22:37:31 combo sshd(pam_unix)[19726]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip67-90-201-250.z201-90-67.customer.algx.net
+Feb 13 13:33:46 combo sshd(pam_unix)[4805]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.189.216.84  user=test
+Oct 14 01:54:27 combo sshd(pam_unix)[2461]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=www.lssu.edu  user=test
+Jul 10 16:33:03 combo sshd(pam_unix)[30739]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141  user=root
+Jul  1 10:56:44 combo sshd(pam_unix)[22275]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+Feb  9 17:15:08 combo sshd(pam_unix)[4430]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-68-120-97-218.dsl.sntc01.sbcglobal.net  user=test
+Jan 12 09:49:02 combo sshd(pam_unix)[18621]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.145.53.114  user=root
+Sep 25 14:15:57 combo sshd(pam_unix)[23281]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Feb 18 05:44:29 combo sshd(pam_unix)[5308]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dialup-mum-203.94.231.54.mtnl.net.in  user=test
+Feb  1 00:36:22 combo sshd(pam_unix)[3834]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=64.77.164.126  user=root
+Jun 13 15:03:40 combo sshd(pam_unix)[16963]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+Feb 20 07:24:30 combo sshd(pam_unix)[5615]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.14.28.60  user=root
+Feb 19 21:28:43 combo sshd(pam_unix)[5446]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.96.97.37  user=root
+Sep  2 01:45:35 combo sshd(pam_unix)[11871]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.179.61.130  user=root
+Jan 24 16:40:21 combo sshd(pam_unix)[32584]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=66.199.253.10  user=root
+Jun 23 23:30:04 combo sshd(pam_unix)[26183]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root
+Jun 14 15:14:56 combo sshd(pam_unix)[19929]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+Aug 23 12:41:40 combo sshd(pam_unix)[19058]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.233.3.13
+Sep 29 18:20:24 combo sshd(pam_unix)[6856]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-185-123.hinet-ip.hinet.net
+Sep 25 14:06:13 combo sshd(pam_unix)[23184]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Oct  4 06:40:49 combo sshd(pam_unix)[22913]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com
+Jan 26 12:53:13 combo kernel: audit(1138297993.581:1376686): avc:  denied  { siginh } for  pid=3130 exe=/bin/bash scontext=system_u:system_r:kernel_t tcontext=root:sysadm_r:sysadm_t tclass=process
+Feb 13 15:56:20 combo sshd(pam_unix)[4827]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.107.1.198  user=root
+Oct 10 05:58:05 combo sshd(pam_unix)[17212]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=221.12.60.23  user=test
+Sep 25 14:06:21 combo sshd(pam_unix)[23191]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Jul 23 20:04:42 combo sshd(pam_unix)[16153]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217  user=root
+Jul  4 19:15:59 combo sshd(pam_unix)[3396]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+Nov 15 07:03:34 combo sshd(pam_unix)[30638]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.108.234.71  user=root
+Feb  5 18:17:59 combo sshd(pam_unix)[4103]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.154.205.252  user=root
+Feb 18 05:44:27 combo sshd(pam_unix)[5292]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dialup-mum-203.94.231.54.mtnl.net.in  user=test
+Jan 23 12:42:21 combo sshd(pam_unix)[29378]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Jul 24 08:31:59 combo sshd(pam_unix)[22191]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.251.225.101  user=root
+Jun 30 19:03:04 combo sshd(pam_unix)[19099]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Feb 17 12:08:58 combo sshd(pam_unix)[5201]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.red-217-126-158.staticip.rima-tde.net  user=root
+Jul 10 16:03:18 combo sshd(pam_unix)[30684]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jan 31 05:01:01 combo sshd(pam_unix)[3691]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dsl092-052-016.phl1.dsl.speakeasy.net
+Feb 17 12:08:58 combo sshd(pam_unix)[5211]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.red-217-126-158.staticip.rima-tde.net  user=root
+Jul  9 19:34:13 combo sshd(pam_unix)[23796]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root
+Jan 19 04:13:51 combo sshd(pam_unix)[12252]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.108.13.91  user=test
+Feb 20 07:24:30 combo sshd(pam_unix)[5627]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.14.28.60  user=root
+Nov 19 11:53:27 combo sshd(pam_unix)[14040]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Sep  9 08:15:45 combo sshd(pam_unix)[11138]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=server.novacero.com  user=test
+Jun 18 01:30:59 combo sshd(pam_unix)[31206]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+Oct 24 12:38:54 combo sshd(pam_unix)[25277]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=customer-201-134-69-250.uninet-ide.com.mx  user=fax
+Jan 27 17:31:37 combo sshd(pam_unix)[3312]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.82.188.147  user=nobody
+Feb 25 12:44:54 combo sshd(pam_unix)[6473]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=64.178.48.29
+Aug 31 19:10:42 combo sshd(pam_unix)[8516]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=213.197.195.245
+Feb  9 17:15:08 combo sshd(pam_unix)[4429]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-68-120-97-218.dsl.sntc01.sbcglobal.net  user=test
+Oct  3 17:52:41 combo sshd(pam_unix)[3589]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com
+Aug 27 15:56:02 combo sshd(pam_unix)[24097]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62.154.184.86
+Sep 23 14:08:56 combo telnetd[31314]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Sep 20 19:59:24 combo sshd(pam_unix)[7672]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.185.162.130  user=root
+Jun 23 23:30:04 combo sshd(pam_unix)[26193]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root
+Jul 26 07:02:45 combo sshd(pam_unix)[28848]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Sep 20 19:59:23 combo sshd(pam_unix)[7675]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.185.162.130  user=root
+Jun 22 03:17:36 combo sshd(pam_unix)[16212]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Nov 18 00:12:03 combo sshd(pam_unix)[7552]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.157.108.173
+Jan 12 13:14:34 combo sshd(pam_unix)[18917]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36  user=root
+Sep 28 09:03:45 combo sendmail: sendmail shutdown failed
+Oct 15 15:50:58 combo sshd(pam_unix)[12428]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.17.1.3  user=root
+Aug 31 13:28:05 combo sshd(pam_unix)[8027]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.178.126.40  user=root
+Jun  9 06:06:41 combo xinetd[2003]: bind failed (Address already in use (errno = 98)). service = telnet
+Jul 10 16:02:21 combo sshd(pam_unix)[30590]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Aug 29 07:23:53 combo sshd(pam_unix)[944]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Jul 10 16:02:25 combo sshd(pam_unix)[30599]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Aug  7 09:01:39 combo sshd(pam_unix)[16505]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ned.gcdtech.com  user=root
+Oct 16 21:24:09 combo sshd(pam_unix)[23388]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85-95-176-2.saransk.ru
+Jul  5 13:36:33 combo sshd(pam_unix)[6556]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.229.150.228
+Feb 10 00:11:35 combo sshd(pam_unix)[4467]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217-159-208-230-dsl.est.estpak.ee  user=root
+Aug 29 07:23:04 combo sshd(pam_unix)[864]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Jan 18 04:34:14 combo sshd(pam_unix)[8689]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.208.122.221
+Jul 10 16:03:03 combo sshd(pam_unix)[30660]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Feb 16 16:43:23 combo sshd(pam_unix)[5099]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=wef.hebiace.edu.cn  user=test
+Nov 19 11:53:14 combo sshd(pam_unix)[14032]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Jul 26 07:02:47 combo sshd(pam_unix)[28850]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Feb 10 00:11:35 combo sshd(pam_unix)[4472]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217-159-208-230-dsl.est.estpak.ee  user=root
+Jan 16 04:52:27 combo sshd(pam_unix)[2117]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212-41-230-229.hebragasse.xdsl-line.inode.at
+Jan 24 05:46:54 combo sshd(pam_unix)[31640]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.162.81.22
+Jul 10 16:01:46 combo sshd(pam_unix)[30536]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Aug 31 19:10:45 combo sshd(pam_unix)[8527]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=213.197.195.245
+Jan 20 11:27:10 combo sshd(pam_unix)[15791]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-222-8-50.hinet-ip.hinet.net
+Jul 10 16:03:18 combo sshd(pam_unix)[30685]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jan 14 07:06:18 combo sshd(pam_unix)[24914]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36  user=root
+Feb 16 23:53:55 combo sshd(pam_unix)[5154]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=69.42.162.212  user=root
+Nov 21 09:33:32 combo sshd(pam_unix)[28391]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.251.225.152  user=root
+Jun 13 15:10:30 combo sshd(pam_unix)[16989]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=under-eepc58.kaist.ac.kr  user=root
+Feb  5 18:17:37 combo sshd(pam_unix)[4079]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.154.205.252  user=root
+Feb  1 02:31:12 combo sshd(pam_unix)[3892]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.206.147  user=test
+Sep 13 04:04:42 combo sshd(pam_unix)[26664]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=yang.dorm13.nctu.edu.tw  user=nobody
+Nov 23 06:16:21 combo sshd(pam_unix)[4507]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.114.82.252
+Oct  9 10:30:25 combo sshd(pam_unix)[14010]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=kulab-6-33.cpc.ku.ac.th  user=amanda
+Dec  9 09:11:49 combo telnetd[15576]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Nov 22 14:32:24 combo kernel: sendmail: page allocation failure. order:0, mode:0x1d2
+Aug  7 07:40:31 combo sshd(pam_unix)[16334]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.75.120.146  user=root
+Sep 26 07:41:56 combo sshd(pam_unix)[26489]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=83-103-43-98.ip.fastwebnet.it  user=root
+Feb 17 12:08:58 combo sshd(pam_unix)[5205]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.red-217-126-158.staticip.rima-tde.net  user=root
+Sep 19 05:57:42 combo kernel: cdrom: open failed.
+Jan 19 04:13:51 combo sshd(pam_unix)[12261]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.108.13.91  user=test
+Sep 24 16:00:31 combo sshd(pam_unix)[17108]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pokemon1.cs.bowiestate.edu
+Nov 18 11:10:30 combo sshd(pam_unix)[10304]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=153.19.130.15  user=root
+Feb 10 00:11:38 combo sshd(pam_unix)[4478]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217-159-208-230-dsl.est.estpak.ee  user=root
+Nov 14 07:37:26 combo sshd(pam_unix)[27644]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.118.169.249  user=root
+Oct  3 17:53:02 combo sshd(pam_unix)[3617]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com
+Nov 19 11:36:14 combo sshd(pam_unix)[13898]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Jan 26 12:22:45 combo kernel: audit(1138296165.146:606873): avc:  denied  { compute_user } for  pid=2089 exe=/bin/su scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:security_t tclass=security
+Jan 23 05:56:55 combo sshd(pam_unix)[28583]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Aug  7 09:01:29 combo sshd(pam_unix)[16485]: 7 more authentication failures; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ned.gcdtech.com  user=root
+Feb 17 16:38:18 combo sshd(pam_unix)[5250]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c-24-7-117-28.hsd1.ca.comcast.net  user=root
+Nov 19 11:06:25 combo sshd(pam_unix)[13767]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.198.225.248  user=root
+Feb 26 13:44:06 combo sshd(pam_unix)[6632]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=221.230.128.214  user=nobody
+Sep 25 14:07:47 combo sshd(pam_unix)[23246]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Jan 19 04:13:51 combo sshd(pam_unix)[12250]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.108.13.91  user=test
+Nov 19 11:53:14 combo sshd(pam_unix)[14034]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Feb 12 06:21:47 combo sshd(pam_unix)[4704]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=66-195-16-3.dimenoc.com  user=root
+Jun 14 11:56:36 combo sshd(pam_unix)[19593]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.233.12.249  user=root
+Oct  4 08:36:56 combo sshd(pam_unix)[24476]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=146.164.89.10  user=nobody
+Jun 15 02:04:59 combo sshd(pam_unix)[20893]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+Sep 22 05:17:38 combo sshd(pam_unix)[12949]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.204.224.125  user=root
+Feb  5 18:17:59 combo sshd(pam_unix)[4104]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.154.205.252  user=root
+Feb 20 12:14:23 combo sshd(pam_unix)[5700]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vedgi-gw.rosprint.net
+Nov 19 11:53:30 combo sshd(pam_unix)[14042]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Sep  4 15:01:37 combo sshd(pam_unix)[28094]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62.205.38.26  user=root
+Nov 15 07:03:34 combo sshd(pam_unix)[30636]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.108.234.71  user=root
+Oct 15 15:50:58 combo sshd(pam_unix)[12424]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.17.1.3  user=root
+Nov 29 04:42:46 combo kernel: httpd: page allocation failure. order:0, mode:0xd2
+Aug 27 05:08:13 combo sshd(pam_unix)[23097]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.99.33.2  user=root
+Oct  3 17:52:55 combo sshd(pam_unix)[3611]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com
+Jul 10 16:01:47 combo sshd(pam_unix)[30540]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Dec  6 00:27:36 combo kernel: httpd: page allocation failure. order:0, mode:0x1d2
+Oct  3 17:52:41 combo sshd(pam_unix)[3595]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com
+Nov 14 18:12:46 combo sshd(pam_unix)[28604]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=63-78-203-210.ip.intralot.us  user=test
+Jul 26 07:03:55 combo sshd(pam_unix)[28876]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jan 23 13:19:52 combo sshd(pam_unix)[29468]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.232.48.98  user=test
+Oct  4 06:07:32 combo sshd(pam_unix)[22332]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Jul 10 16:01:43 combo sshd(pam_unix)[30530]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jan 17 20:41:06 combo sshd(pam_unix)[7193]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.162.81.22
+Oct 23 01:21:20 combo sshd(pam_unix)[16624]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vit94-2-82-66-253-141.fbx.proxad.net
+Nov 26 06:45:12 combo sshd(pam_unix)[18593]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.35.204.36  user=root
+Sep 21 02:47:36 combo sshd(pam_unix)[8312]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=user-12ldoks.cable.mindspring.com
+Nov 25 10:58:54 combo sshd(pam_unix)[14188]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=59-106-15-121.r-bl100.sakura.ne.jp  user=root
+Jul 10 16:02:53 combo sshd(pam_unix)[30647]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Sep 21 12:18:29 combo sshd(pam_unix)[9872]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pcp0012132427pcs.benslm01.pa.comcast.net  user=webmaster
+Oct 15 15:49:59 combo sshd(pam_unix)[12340]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.17.1.3  user=root
+Nov 19 11:53:40 combo sshd(pam_unix)[14050]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Feb 20 12:14:30 combo sshd(pam_unix)[5718]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vedgi-gw.rosprint.net
+Aug 27 02:31:57 combo sshd(pam_unix)[21258]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.233.104.78  user=root
+Dec  9 08:54:19 combo telnetd[15510]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Jun 15 20:05:31 combo sshd(pam_unix)[24138]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net
+Jun 13 20:13:11 combo sshd(pam_unix)[17427]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=under-eepc58.kaist.ac.kr
+Nov 13 07:57:49 combo sshd(pam_unix)[18547]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.90.137.90  user=root
+Nov 17 14:28:48 combo sshd(pam_unix)[6401]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.98.81.12  user=root
+Jan 16 04:55:02 combo sshd(pam_unix)[2139]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212-41-230-229.hebragasse.xdsl-line.inode.at
+Aug 16 03:14:10 combo sshd(pam_unix)[15200]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.125.251.17  user=root
+Jan 21 23:58:17 combo sshd(pam_unix)[20418]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.200.44.248  user=root
+Oct  7 18:54:21 combo sshd(pam_unix)[3276]: 1 more authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=bozesan.teleson.ro  user=test
+Feb 12 10:41:36 combo sshd(pam_unix)[4731]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=165.132.224.7  user=root
+Feb 19 21:28:44 combo sshd(pam_unix)[5451]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.96.97.37  user=root
+Nov 11 04:35:24 combo sshd(pam_unix)[15646]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68-119-96-37.static.jcsn.tn.charter.com
+Nov 17 14:29:14 combo sshd(pam_unix)[6427]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.98.81.12  user=root
+Aug 29 07:22:52 combo sshd(pam_unix)[850]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Jun 29 10:08:19 combo sshd(pam_unix)[15481]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+Jul 11 03:46:15 combo sshd(pam_unix)[31848]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128  user=root
+Feb  1 00:36:21 combo sshd(pam_unix)[3826]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=64.77.164.126  user=root
+Jun 29 12:12:05 combo sshd(pam_unix)[15712]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+Jan 23 23:14:44 combo sshd(pam_unix)[30293]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Jun 21 08:56:36 combo sshd(pam_unix)[14281]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66  user=guest
+Oct 10 04:03:02 combo sshd(pam_unix)[16536]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=142.179.221.122  user=test
+Nov 23 19:36:24 combo kernel: httpd: page allocation failure. order:0, mode:0xd2
+Feb 24 11:16:38 combo sshd(pam_unix)[6259]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=83.228.113.166  user=root
+Sep  3 08:57:32 combo sshd(pam_unix)[16982]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.109.97.31  user=root
+Nov 17 14:28:09 combo sshd(pam_unix)[6366]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.98.81.12  user=root
+Oct 14 06:19:15 combo sshd(pam_unix)[3896]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=mail.23rhodes.net
+Jan 19 04:13:51 combo sshd(pam_unix)[12263]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.108.13.91  user=test
+Jan 22 20:01:14 combo sshd(pam_unix)[26146]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.75.233.249
+Sep 26 07:41:56 combo sshd(pam_unix)[26497]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=83-103-43-98.ip.fastwebnet.it  user=root
+Jun 14 03:00:12 combo sshd(pam_unix)[18029]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.101.42.106  user=root
+Jun 14 15:14:54 combo sshd(pam_unix)[19917]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+Jul 10 16:01:49 combo sshd(pam_unix)[30548]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Nov 17 14:28:22 combo sshd(pam_unix)[6376]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.98.81.12  user=root
+Feb 26 09:02:53 combo sshd(pam_unix)[6550]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.63.163.84  user=root
+Oct  4 07:59:25 combo sshd(pam_unix)[24238]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Jul 11 03:46:15 combo sshd(pam_unix)[31861]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128  user=root
+Feb 16 23:53:32 combo sshd(pam_unix)[5140]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=69.42.162.212  user=root
+Oct 15 12:38:49 combo sshd(pam_unix)[11773]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.78.215.9
+Nov 18 11:10:33 combo sshd(pam_unix)[10306]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=153.19.130.15  user=root
+Jan 12 03:40:42 combo sshd(pam_unix)[17323]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.95.107.5  user=test
+Sep  2 18:07:41 combo sshd(pam_unix)[14928]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.109.97.31  user=root
+Jul  1 00:21:31 combo sshd(pam_unix)[19631]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Feb 20 12:14:24 combo sshd(pam_unix)[5704]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vedgi-gw.rosprint.net
+Feb 10 06:02:23 combo sshd(pam_unix)[4505]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=web003.knoxville.xxpansion.net  user=root
+Sep 15 04:35:20 combo sshd(pam_unix)[1184]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-41-150.hinet-ip.hinet.net  user=root
+Jan 23 06:10:34 combo sshd(pam_unix)[28624]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ztc2-f.nas.tiscali.de  user=root
+Feb 14 01:42:18 combo sshd(pam_unix)[4891]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=debsnet1.americannetlink.propagation.net
+Jan 26 12:22:25 combo kernel: audit(1138296106.081:244396): avc:  denied  { getattr } for  pid=725 exe=/sbin/lvm.static path=/dev/pts dev= ino=1 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:devpts_t tclass=dir
+Jan 12 03:40:48 combo sshd(pam_unix)[17329]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.95.107.5  user=test
+Oct  4 05:20:10 combo sshd(pam_unix)[21656]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ponteix.ssd.sk.ca
+Jan 13 18:03:28 combo sshd(pam_unix)[23003]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36
+Jan 26 17:23:29 combo named[2288]: couldn't add command channel ::1#953: not found
+Jul 15 01:03:49 combo sshd(pam_unix)[12643]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root
+Dec  9 10:14:08 combo sshd(pam_unix)[16226]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host-xe04.kiosk.ws  user=root
+Feb 17 16:38:18 combo sshd(pam_unix)[5247]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c-24-7-117-28.hsd1.ca.comcast.net  user=root
+Feb  1 21:35:58 combo sshd(pam_unix)[3942]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.135.191.21  user=test
+Jan 15 16:59:59 combo sshd(pam_unix)[339]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=mail.xmjl.com  user=root
+Feb 20 07:24:30 combo sshd(pam_unix)[5616]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.14.28.60  user=root
+Jan 24 16:40:10 combo sshd(pam_unix)[32573]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=66.199.253.10  user=root
+Dec  5 10:39:36 combo sshd(pam_unix)[5443]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=www.njust.edu.cn  user=test
+Feb 22 13:26:34 combo sshd(pam_unix)[6029]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.194.58.127  user=root
+Jan 26 12:23:14 combo kernel: audit(1138296194.865:693309): avc:  denied  { getattr } for  pid=2285 exe=/sbin/killall5 path=/proc/2091/stat dev= ino=137035789 scontext=system_u:system_r:kernel_t tcontext=user_u:sysadm_r:sysadm_t tclass=file
+Feb 23 13:54:47 combo sshd(pam_unix)[6084]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=66-50-123-66.prtc.net
+Nov 10 08:12:13 combo sshd(pam_unix)[31404]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ridsdale.plus.com
+Oct 11 06:59:55 combo sshd(pam_unix)[23285]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-232-147-37.nexg.net  user=root
+Dec  9 10:14:08 combo sshd(pam_unix)[16227]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host-xe04.kiosk.ws  user=root
+Feb 26 09:02:53 combo sshd(pam_unix)[6546]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.63.163.84  user=root
+Oct  4 07:59:25 combo sshd(pam_unix)[24237]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Oct  9 14:05:09 combo sshd(pam_unix)[14377]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h9-203-73-31.seed.net.tw
+Aug  2 05:53:11 combo sshd(pam_unix)[24438]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.185.220.46
+Jan 26 12:22:43 combo kernel: audit(1138296126.645:429627): avc:  denied  { read } for  pid=1574 exe=/sbin/klogd name=kmsg dev= ino=-268435446 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:proc_kmsg_t tclass=file
+Jan 24 05:46:49 combo sshd(pam_unix)[31636]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.162.81.22
+Oct  9 10:30:34 combo sshd(pam_unix)[14014]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=kulab-6-33.cpc.ku.ac.th  user=amanda
+Jul 18 23:01:25 combo sshd(pam_unix)[28980]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw
+Jul 11 17:58:21 combo sshd(pam_unix)[1337]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root
+Sep 15 04:35:20 combo sshd(pam_unix)[1178]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-41-150.hinet-ip.hinet.net  user=root
+Jul 24 08:31:59 combo sshd(pam_unix)[22188]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.251.225.101  user=root
+Oct 10 04:03:00 combo sshd(pam_unix)[16534]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=142.179.221.122  user=test
+Sep 24 16:02:00 combo sshd(pam_unix)[17136]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pokemon1.cs.bowiestate.edu
+Jan 13 17:47:42 combo sshd(pam_unix)[22963]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36
+Jun 27 08:05:37 combo sshd(pam_unix)[8660]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com  user=root
+Jan 16 04:56:52 combo sshd(pam_unix)[2158]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212-41-230-229.hebragasse.xdsl-line.inode.at
+Jan 18 04:34:15 combo sshd(pam_unix)[8705]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.208.122.221
+Feb  8 18:39:54 combo sshd(pam_unix)[4343]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.166.155.143  user=root
+Jul  1 00:21:28 combo sshd(pam_unix)[19628]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Feb 22 11:46:37 combo sshd(pam_unix)[5992]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203186089173.ctinets.com  user=root
+Feb 26 09:02:54 combo sshd(pam_unix)[6559]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-63-163-84.static.exatt.net  user=root
+Sep 28 13:38:11 combo rpc.statd[1608]: gethostbyname error for ^X���^X���^Z���^Z���%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Sep 12 07:40:26 combo sshd(pam_unix)[24512]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=63.107.208.121
+Aug 27 13:03:28 combo sshd(pam_unix)[23788]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=s010600112fb9bd72.vf.shawcable.net
+Feb  1 02:31:00 combo sshd(pam_unix)[3876]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.206.147  user=test
+Feb  1 02:31:02 combo sshd(pam_unix)[3880]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.206.147  user=test
+Feb 24 07:13:15 combo sshd(pam_unix)[6172]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=83.228.113.166  user=root
+Jan 23 23:14:44 combo sshd(pam_unix)[30296]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Feb  8 09:25:50 combo sshd(pam_unix)[4291]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=relic.centrodedatos.com
+Jan 26 12:22:43 combo kernel: audit(1138296128.157:454451): avc:  denied  { search } for  pid=1642 exe=/usr/sbin/rpc.idmapd dev= ino=2569 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:rpc_pipefs_t tclass=dir
+Nov 26 06:45:13 combo sshd(pam_unix)[18595]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.35.204.36  user=root
+Nov 23 08:21:25 combo kernel: httpd: page allocation failure. order:0, mode:0xd2
+Jan 26 12:22:13 combo kernel: audit(1138278093.880:123407): avc:  denied  { write } for  pid=513 exe=/usr/X11R6/bin/Xorg name=00.0 dev= ino=-268435176 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:proc_t tclass=file
+Aug  9 21:09:01 combo sshd(pam_unix)[24291]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.78.209.108  user=root
+Aug 13 10:53:04 combo sshd(pam_unix)[4021]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=co-f-211-78-4-214.kgex.com.tw  user=root
+Jan 13 17:47:04 combo sshd(pam_unix)[22942]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36
+Nov 19 11:53:01 combo sshd(pam_unix)[14023]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Jun 30 20:53:06 combo klogind[19284]: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+Nov 29 04:42:59 combo kernel: httpd: page allocation failure. order:0, mode:0x50
+Nov 19 11:52:49 combo sshd(pam_unix)[14012]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Nov 18 00:12:04 combo sshd(pam_unix)[7559]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.157.108.173
+Jun 28 08:10:26 combo sshd(pam_unix)[11514]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+Jan 18 00:03:43 combo sshd(pam_unix)[7518]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.208.122.221
+Oct 14 13:15:00 combo sshd(pam_unix)[5388]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.82.89.30
+Feb 19 02:34:59 combo sshd(pam_unix)[5337]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=200-103-106-42.pvoce700-nrp1.e.brasiltelecom.net.br  user=root
+Jan 20 03:16:49 combo sshd(pam_unix)[14310]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.100.127.12  user=root
+Sep 22 05:18:02 combo sshd(pam_unix)[12961]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.204.224.125  user=root
+Nov 12 23:54:25 combo sshd(pam_unix)[27324]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ns.cs-net.cz
+Oct 15 15:50:23 combo sshd(pam_unix)[12388]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.17.1.3  user=root
+Jan 14 06:58:46 combo sshd(pam_unix)[24846]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36  user=root
+Oct  7 18:55:01 combo sshd(pam_unix)[3280]: 1 more authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=bozesan.teleson.ro  user=test
+Sep  5 23:24:57 combo sshd(pam_unix)[31792]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.99.33.2  user=root
+Oct 15 03:48:38 combo sshd(pam_unix)[8212]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=mail.3-plan.ru  user=root
+Jul 14 15:00:49 combo sshd(pam_unix)[11723]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net  user=root
+Jan 20 06:36:56 combo sshd(pam_unix)[15355]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.162.81.22
+Aug  2 11:24:56 combo sshd(pam_unix)[25512]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=200.150.146.123
+Jun 28 20:58:55 combo sshd(pam_unix)[12680]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root
+Jan 20 03:16:50 combo sshd(pam_unix)[14313]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.100.127.12  user=root
+Oct 22 12:05:07 combo sshd(pam_unix)[15468]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.220.149.227  user=test
+Nov 22 09:31:33 combo kernel: httpd: page allocation failure. order:0, mode:0x50
+Sep 25 14:15:48 combo sshd(pam_unix)[23265]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Oct 15 15:50:58 combo sshd(pam_unix)[12425]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.17.1.3  user=root
+Jun 15 12:12:34 combo sshd(pam_unix)[23406]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+Oct 11 05:13:04 combo sshd(pam_unix)[23068]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.32.209.188  user=root
+Feb 23 18:10:47 combo sshd(pam_unix)[6110]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=66-50-123-66.prtc.net
+Feb 24 10:39:45 combo sshd(pam_unix)[6206]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=206.51.234.204  user=root
+Feb 23 18:10:48 combo sshd(pam_unix)[6124]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=66-50-123-66.prtc.net
+Jul 12 06:09:44 combo sshd(pam_unix)[4064]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net  user=root
+Sep 24 16:02:37 combo sshd(pam_unix)[17138]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pokemon1.cs.bowiestate.edu
+Nov 18 10:40:59 combo sshd(pam_unix)[10217]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-dynamic-pool-xxx.fpt.vn
+Feb 10 06:02:30 combo sshd(pam_unix)[4511]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=web003.knoxville.xxpansion.net  user=root
+Nov 14 20:33:48 combo sshd(pam_unix)[28798]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=mail.ntsec.gov.tw
+Aug  2 05:53:22 combo sshd(pam_unix)[24453]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.185.220.46
+Oct 23 01:21:22 combo sshd(pam_unix)[16637]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vit94-2-82-66-253-141.fbx.proxad.net
+Jun 30 20:53:04 combo klogind[19268]: Kerberos authentication failed
+Jan 16 12:39:30 combo sshd(pam_unix)[2877]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.118.94.55
+Jan 16 04:56:52 combo sshd(pam_unix)[2163]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212-41-230-229.hebragasse.xdsl-line.inode.at
+Feb  9 17:15:08 combo sshd(pam_unix)[4432]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-68-120-97-218.dsl.sntc01.sbcglobal.net  user=test
+Feb  6 23:04:54 combo sshd(pam_unix)[4215]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.113.24.228  user=root
+Sep 25 14:06:41 combo sshd(pam_unix)[23214]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:21 combo sshd(pam_unix)[23189]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Jul 10 16:02:27 combo sshd(pam_unix)[30605]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Oct 11 07:00:17 combo sshd(pam_unix)[23311]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-232-147-37.nexg.net  user=root
+Jun 13 20:13:11 combo sshd(pam_unix)[17431]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=under-eepc58.kaist.ac.kr
+Feb 24 20:53:48 combo sshd(pam_unix)[6356]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.14.157.80  user=root
+Jan 20 01:55:26 combo sshd(pam_unix)[14176]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.219.231.2  user=root
+Jan 11 21:05:52 combo sshd(pam_unix)[16728]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=customer-reverse-entry.69.59.170.12  user=test
+Jun 30 20:53:06 combo klogind[19266]: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+Sep 29 18:20:24 combo sshd(pam_unix)[6854]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-185-123.hinet-ip.hinet.net
+Jan 12 03:43:59 combo sshd(pam_unix)[17344]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.95.107.5
+Jan 31 04:35:33 combo sshd(pam_unix)[3651]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=jwhp5.chem.ncsu.edu  user=ftp
+Jul 10 16:03:12 combo sshd(pam_unix)[30675]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jan 31 18:45:00 combo sshd(pam_unix)[3801]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.100.28.173  user=root
+Feb 15 19:31:00 combo sshd(pam_unix)[5055]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=xdsl-81-173-145-209.netcologne.de  user=test
+Jan 13 17:47:24 combo sshd(pam_unix)[22953]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36
+Aug  8 00:09:31 combo sshd(pam_unix)[17830]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.106.127.226  user=root
+Nov 25 10:58:54 combo sshd(pam_unix)[14187]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=59-106-15-121.r-bl100.sakura.ne.jp  user=root
+Dec  5 02:14:22 combo sshd(pam_unix)[2623]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.20.75.139  user=root
+Jun 30 19:03:01 combo sshd(pam_unix)[19093]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Jan 22 16:37:16 combo sshd(pam_unix)[25828]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.129.113.52  user=root
+Nov 15 07:03:34 combo sshd(pam_unix)[30637]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.108.234.71  user=root
+Jan 16 12:54:16 combo sshd(pam_unix)[2915]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.178.20.170  user=test
+Jan 26 12:22:43 combo kernel: audit(1138296126.645:429627): avc:  denied  { syslog_mod } for  pid=1574 exe=/sbin/klogd scontext=system_u:system_r:kernel_t tcontext=system_u:system_r:kernel_t tclass=system
+Feb 28 01:49:00 combo sshd(pam_unix)[6728]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=www.buller.hoover.fresno.k12.ca.us  user=root
+Jun 28 08:10:24 combo sshd(pam_unix)[11513]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+Jun 13 15:03:39 combo sshd(pam_unix)[16960]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+Jan 26 12:22:13 combo kernel: audit(1138278093.540:118407): avc:  denied  { write } for  pid=513 exe=/usr/X11R6/bin/Xorg path=/initrd/XFree86.0.log dev= ino=1027 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ramfs_t tclass=file
+Oct 23 21:04:25 combo telnetd[23220]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Sep 25 14:06:33 combo sshd(pam_unix)[23206]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Jan 15 16:47:39 combo sshd(pam_unix)[32752]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212-41-230-229.hebragasse.xdsl-line.inode.at  user=root
+Jul 23 20:04:41 combo sshd(pam_unix)[16154]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217  user=root
+Jun 22 03:18:12 combo sshd(pam_unix)[16240]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jan 14 02:38:35 combo sshd(pam_unix)[23724]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.157.209.133
+Feb  5 18:11:44 combo sshd(pam_unix)[4058]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.162.81.22
+Dec  7 03:28:16 combo sshd(pam_unix)[4513]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=port0034-abx-adsl.cwjamaica.com
+Oct  4 06:40:29 combo sshd(pam_unix)[22899]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com
+Jan 20 01:55:40 combo sshd(pam_unix)[14182]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.219.231.2  user=root
+Oct 10 07:29:58 combo sshd(pam_unix)[17492]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=iorganet3.teleson.ro
+Jan 29 22:37:47 combo sshd(pam_unix)[3417]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=julia.arkos.de  user=test
+Nov  9 20:57:09 combo sshd(pam_unix)[28835]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=wcn3.tisnet.net.tw  user=root
+Sep 30 06:10:52 combo sshd(pam_unix)[9473]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=fparas.securepathways.com
+Oct  3 17:59:23 combo sshd(pam_unix)[3675]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com
+Nov 22 12:26:37 combo sshd(pam_unix)[1366]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c-67-176-148-16.hsd1.il.comcast.net  user=root
+Jul 12 06:09:44 combo sshd(pam_unix)[4061]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net  user=root
+Sep 13 15:00:41 combo sshd(pam_unix)[28069]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.223.40.241  user=nobody
+Jun 15 20:05:31 combo sshd(pam_unix)[24137]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net
+Sep 22 05:17:27 combo sshd(pam_unix)[12943]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.204.224.125  user=root
+Jan 26 12:22:24 combo kernel: audit(1138296105.200:235352): avc:  denied  { getattr } for  pid=309 exe=/bin/bash path=/dev/mapper/control dev=hda2 ino=1154199 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:lvm_control_t tclass=chr_file
+Jan 28 21:02:43 combo sshd(pam_unix)[3375]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.162.81.22  user=test
+Oct 20 05:19:32 combo telnetd[8116]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Sep  4 20:24:24 combo sshd(pam_unix)[28576]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.109.97.31  user=root
+Feb  5 18:11:37 combo sshd(pam_unix)[4050]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.162.81.22
+Jan 16 00:23:01 combo sshd(pam_unix)[955]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.133.4.220
+Nov 19 11:36:32 combo sshd(pam_unix)[13919]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Jul 19 07:35:41 combo sshd(pam_unix)[30503]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180  user=root
+Jun 13 15:03:38 combo sshd(pam_unix)[16959]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+Nov 25 17:52:19 combo sshd(pam_unix)[15224]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.123.169  user=root
+Dec  4 03:48:54 combo kernel: sendmail: page allocation failure. order:0, mode:0x1d2
+Aug 13 10:53:03 combo sshd(pam_unix)[4007]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=co-f-211-78-4-214.kgex.com.tw  user=root
+Oct  4 07:59:25 combo sshd(pam_unix)[24236]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Sep 25 14:06:27 combo sshd(pam_unix)[23204]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Oct  4 06:40:29 combo sshd(pam_unix)[22898]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com
+Sep 13 10:08:21 combo sshd(pam_unix)[27624]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dpc6682015008.direcpc.com  user=root
+Aug  7 11:33:59 combo telnetd[16730]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Oct 24 12:39:07 combo sshd(pam_unix)[25283]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=customer-201-134-69-250.uninet-ide.com.mx  user=fax
+Aug 31 13:28:05 combo sshd(pam_unix)[8025]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.178.126.40  user=root
+Jul 26 07:03:47 combo sshd(pam_unix)[28874]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Sep  5 23:25:06 combo sshd(pam_unix)[31804]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.99.33.2  user=root
+Jan 23 11:37:03 combo sshd(pam_unix)[29270]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Oct 15 15:51:12 combo sshd(pam_unix)[12443]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.17.1.3  user=root
+Jun 20 09:20:07 combo sshd(pam_unix)[10049]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+Jan 23 13:29:33 combo sshd(pam_unix)[29493]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Aug 29 07:23:04 combo sshd(pam_unix)[865]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Nov 13 16:44:49 combo sshd(pam_unix)[5539]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ridsdale.plus.com  user=root
+Jan 26 12:22:43 combo kernel: audit(1138296129.057:468261): avc:  denied  { ioctl } for  pid=1687 exe=/usr/sbin/hcid path=socket:[2645] dev= ino=2645 scontext=system_u:system_r:kernel_t tcontext=system_u:system_r:kernel_t tclass=socket
+Oct 10 15:58:58 combo sshd(pam_unix)[18528]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.69.8.78  user=test
+Sep 22 05:17:52 combo sshd(pam_unix)[12955]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.204.224.125  user=root
+Oct  4 06:07:32 combo sshd(pam_unix)[22329]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Nov 14 20:33:48 combo sshd(pam_unix)[28801]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=mail.ntsec.gov.tw
+Sep  4 15:00:48 combo sshd(pam_unix)[28048]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62.205.38.26  user=root
+Nov 18 11:10:24 combo sshd(pam_unix)[10296]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=153.19.130.15  user=root
+Jan 13 17:47:44 combo sshd(pam_unix)[22966]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36
+Aug 29 07:23:04 combo sshd(pam_unix)[871]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Aug 22 09:28:09 combo sshd(pam_unix)[15001]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.191.53.101  user=root
+Nov 22 11:30:51 combo kernel: httpd: page allocation failure. order:0, mode:0x1d2
+Nov 13 07:57:49 combo sshd(pam_unix)[18551]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.90.137.90  user=root
+Nov 19 11:36:17 combo sshd(pam_unix)[13909]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Oct  4 08:36:55 combo sshd(pam_unix)[24469]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=146.164.89.10  user=nobody
+Jan 18 00:03:43 combo sshd(pam_unix)[7509]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.208.122.221
+Sep 29 18:20:26 combo sshd(pam_unix)[6863]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-185-123.hinet-ip.hinet.net
+Jul 11 17:58:16 combo sshd(pam_unix)[1329]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root
+Nov 18 11:10:39 combo sshd(pam_unix)[10310]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=153.19.130.15  user=root
+Feb 16 16:43:23 combo sshd(pam_unix)[5101]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=wef.hebiace.edu.cn  user=test
+Jun 14 15:14:53 combo sshd(pam_unix)[19913]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+Aug 31 19:10:43 combo sshd(pam_unix)[8522]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=213.197.195.245
+Aug  8 00:10:11 combo sshd(pam_unix)[17845]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.106.127.226  user=root
+Feb 17 12:08:58 combo sshd(pam_unix)[5208]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.red-217-126-158.staticip.rima-tde.net  user=root
+Nov 13 16:44:53 combo sshd(pam_unix)[5546]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ridsdale.plus.com  user=root
+Oct  4 06:07:33 combo sshd(pam_unix)[22340]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Dec  5 10:39:36 combo sshd(pam_unix)[5445]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=www.njust.edu.cn  user=test
+Jan 16 04:58:39 combo sshd(pam_unix)[2185]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212-41-230-229.hebragasse.xdsl-line.inode.at
+Jan 26 12:22:43 combo kernel: audit(1138296132.911:505629): avc:  denied  { relabelto } for  pid=1788 exe=/sbin/restorecon name=ptal-mlcd dev=hda2 ino=1502894 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:var_run_t tclass=dir
+Jun 30 20:16:17 combo sshd(pam_unix)[19202]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+Jun 23 02:55:14 combo sshd(pam_unix)[19085]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=200.60.37.201
+Jan 16 12:39:29 combo sshd(pam_unix)[2875]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.118.94.55
+Nov 17 04:29:37 combo sshd(pam_unix)[5122]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.3
+Jan 30 11:30:55 combo sshd(pam_unix)[3549]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.135.191.21
+Oct  1 06:50:49 combo sshd(pam_unix)[12384]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=llekm-static-203.200.147.8.vsnl.net.in
+Sep 12 07:40:36 combo sshd(pam_unix)[24517]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=63.107.208.121
+Feb 19 11:29:58 combo sshd(pam_unix)[5386]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.168.14.22
+Feb  2 22:15:05 combo sshd(pam_unix)[4005]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.162.81.22  user=root
+Nov 19 11:37:25 combo sshd(pam_unix)[13940]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Jan 14 02:38:36 combo sshd(pam_unix)[23726]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.157.209.133
+Nov 17 14:27:56 combo sshd(pam_unix)[6351]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.98.81.12  user=root
+Jan 26 12:22:44 combo kernel: audit(1138296160.391:589420): avc:  denied  { name_bind } for  pid=2013 exe=/usr/sbin/xinetd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:amandaidx_port_t tclass=tcp_socket
+Sep 29 12:28:40 combo sendmail: sm-client shutdown failed
+Jan 16 00:23:21 combo sshd(pam_unix)[959]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.133.4.220
+Dec  9 09:11:15 combo telnetd[15574]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Jan 12 22:37:31 combo sshd(pam_unix)[19717]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip67-90-201-250.z201-90-67.customer.algx.net
+Aug 27 13:03:28 combo sshd(pam_unix)[23789]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=s010600112fb9bd72.vf.shawcable.net
+Jul 11 17:58:22 combo sshd(pam_unix)[1341]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root
+Sep 23 14:08:56 combo telnetd[31309]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Feb 13 15:56:00 combo sshd(pam_unix)[4821]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.107.1.198  user=root
+Jun 15 12:12:34 combo sshd(pam_unix)[23403]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+Nov 17 14:29:01 combo sshd(pam_unix)[6411]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.98.81.12  user=root
+Oct  9 09:19:41 combo sshd(pam_unix)[13876]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.153.147.92  user=test
+Nov 23 20:27:12 combo sshd(pam_unix)[6386]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=cfp.acm.org
+Nov 22 09:31:19 combo kernel: httpd: page allocation failure. order:0, mode:0xd2
+Sep 25 14:16:02 combo sshd(pam_unix)[23274]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Jun 23 01:41:30 combo sshd(pam_unix)[18981]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest
+Jan 26 12:23:14 combo kernel: audit(1138296194.865:693325): avc:  denied  { read } for  pid=2285 exe=/sbin/killall5 name=exe dev= ino=137035784 scontext=system_u:system_r:kernel_t tcontext=user_u:sysadm_r:sysadm_t tclass=lnk_file
+Jan 27 17:32:17 combo sshd(pam_unix)[3338]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.82.188.147  user=nobody
+Nov 23 21:36:30 combo kernel: httpd: page allocation failure. order:0, mode:0x50
+Jun 29 10:08:19 combo sshd(pam_unix)[15478]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+Oct  3 17:52:41 combo sshd(pam_unix)[3590]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com
+Nov 25 10:58:54 combo sshd(pam_unix)[14190]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=59-106-15-121.r-bl100.sakura.ne.jp  user=root
+Jan 26 16:31:24 combo sshd(pam_unix)[3252]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=196.1.179.102  user=test
+Jan 23 08:43:50 combo sshd(pam_unix)[28946]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Aug 29 07:23:04 combo sshd(pam_unix)[862]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Feb 15 18:54:11 combo sshd(pam_unix)[5027]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=xdsl-81-173-145-209.netcologne.de  user=test
+Oct  4 05:20:10 combo sshd(pam_unix)[21658]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ponteix.ssd.sk.ca
+Nov  8 01:33:12 combo sshd(pam_unix)[22755]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.73.233.195
+Jan 16 12:54:18 combo sshd(pam_unix)[2903]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.178.20.170  user=test
+Aug 29 07:23:41 combo sshd(pam_unix)[921]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Sep 25 14:06:10 combo sshd(pam_unix)[23178]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Jun 15 02:04:59 combo sshd(pam_unix)[20898]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+Jun 11 09:45:58 combo sshd(pam_unix)[6476]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Oct  8 13:17:00 combo sshd(pam_unix)[6216]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=test.mtc.ntnu.edu.tw
+Feb  8 09:25:58 combo sshd(pam_unix)[4302]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=relic.centrodedatos.com
+Aug 18 16:36:02 combo sshd(pam_unix)[24380]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.76.149.199  user=root
+Feb 18 05:44:28 combo sshd(pam_unix)[5300]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dialup-mum-203.94.231.54.mtnl.net.in  user=test
+Feb 24 05:45:21 combo sshd(pam_unix)[6163]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=206.51.234.204  user=root
+Oct 11 06:59:54 combo sshd(pam_unix)[23281]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-232-147-37.nexg.net  user=root
+Jan 11 19:07:14 combo sshd(pam_unix)[16545]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.155.28.28
+Aug 24 14:57:13 combo sshd(pam_unix)[22305]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.95.232.206  user=root
+Feb 24 20:53:48 combo sshd(pam_unix)[6347]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.14.157.80  user=root
+Oct 22 12:05:07 combo sshd(pam_unix)[15462]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.220.149.227  user=test
+Sep  4 15:01:12 combo sshd(pam_unix)[28080]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62.205.38.26  user=root
+Feb  2 22:15:19 combo sshd(pam_unix)[4017]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.162.81.22  user=root
+Aug 27 02:32:00 combo sshd(pam_unix)[21264]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.233.104.78  user=root
+Nov 19 11:53:53 combo sshd(pam_unix)[14070]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Nov 21 09:33:32 combo sshd(pam_unix)[28392]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.251.225.152  user=root
+Oct  6 05:46:42 combo sshd(pam_unix)[30735]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.39.240.228  user=root
+Jan 14 20:26:17 combo sshd(pam_unix)[26117]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36  user=root
+Nov 19 22:42:25 combo sshd(pam_unix)[15453]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.126.92.146  user=root
+Aug  7 11:33:59 combo telnetd[16733]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Jun 15 12:12:34 combo sshd(pam_unix)[23407]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+Jun 11 09:46:45 combo sshd(pam_unix)[6510]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Oct 15 15:50:23 combo sshd(pam_unix)[12384]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.17.1.3  user=root
+Jan 23 05:28:15 combo sshd(pam_unix)[28524]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ztc2-f.nas.tiscali.de  user=root
+Jan 28 05:01:21 combo sshd(pam_unix)[3369]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h8441253073.dsl.speedlinq.nl  user=root
+Aug 27 15:56:03 combo sshd(pam_unix)[24108]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62.154.184.86
+Jan 26 12:22:19 combo kernel: audit(1138296102.645:185219): avc:  denied  { mounton } for  pid=655 exe=/bin/mount path=/proc/bus/usb dev= ino=-268435218 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:proc_t tclass=dir
+Feb  6 23:04:51 combo sshd(pam_unix)[4211]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.113.24.228  user=root
+Nov 22 02:38:22 combo sshd(pam_unix)[30882]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.183.248.130
+Oct 11 05:13:04 combo sshd(pam_unix)[23069]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.32.209.188  user=root
+Oct 15 12:38:49 combo sshd(pam_unix)[11774]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.78.215.9
+Aug  1 14:17:16 combo sshd(pam_unix)[22334]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=fastfood.com.pe  user=root
+Dec  9 09:55:21 combo telnetd[16141]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Aug  8 23:19:21 combo sshd(pam_unix)[21617]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.233.9.185  user=root
+Jan 23 10:49:34 combo sshd(pam_unix)[29185]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Jun 22 04:30:55 combo sshd(pam_unix)[17124]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+Sep 19 09:58:35 combo named[2305]: couldn't add command channel ::1#953: not found
+Jan 14 20:25:01 combo sshd(pam_unix)[26090]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36  user=root
+Jul 20 23:37:40 combo sshd(pam_unix)[3307]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.55.234.102
+Nov 22 09:25:56 combo kernel: httpd: page allocation failure. order:0, mode:0xd2
+Feb 10 06:02:13 combo sshd(pam_unix)[4489]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=web003.knoxville.xxpansion.net  user=root
+Jan 23 08:33:01 combo sshd(pam_unix)[28915]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ztc2-f.nas.tiscali.de  user=root
+Nov 21 09:33:32 combo sshd(pam_unix)[28393]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.251.225.152  user=root
+Jun 30 20:53:06 combo klogind[19281]: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+Jan 26 12:22:37 combo kernel: audit(1138296120.101:365320): avc:  denied  { read } for  pid=1263 exe=/usr/sbin/kudzu name=hotplug dev= ino=-268435401 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysctl_hotplug_t tclass=file
+Nov 25 10:58:54 combo sshd(pam_unix)[14194]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=59-106-15-121.r-bl100.sakura.ne.jp  user=root
+Feb 24 07:13:16 combo sshd(pam_unix)[6178]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=83.228.113.166  user=root
+Sep 30 13:55:08 combo sshd(pam_unix)[10113]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.155.31.54  user=root
+Jan 14 19:03:38 combo sshd(pam_unix)[25982]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=alternativadigital.inext.net.mx  user=test
+Dec  9 08:41:18 combo telnetd[15478]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Nov 25 10:07:34 combo sshd(pam_unix)[14030]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=xdsl-5103.wroclaw.dialog.net.pl  user=test
+Feb  2 12:25:32 combo sshd(pam_unix)[4001]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.136.20.50  user=root
+Nov  3 20:35:11 combo sshd(pam_unix)[6051]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.122.28.162  user=test
+Jan 10 14:43:12 combo sshd(pam_unix)[9111]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.80.222.134  user=root
+Jan 16 12:54:13 combo sshd(pam_unix)[2898]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.178.20.170  user=test
+Jan 28 21:02:45 combo sshd(pam_unix)[3381]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.162.81.22  user=test
+Oct  1 06:50:49 combo sshd(pam_unix)[12390]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=llekm-static-203.200.147.8.vsnl.net.in
+Jan 23 10:13:47 combo sshd(pam_unix)[29117]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Sep 17 13:19:29 combo sshd(pam_unix)[8463]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-64-171-127-90.dsl.sndg02.pacbell.net  user=root
+Sep  2 01:45:38 combo sshd(pam_unix)[11883]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.179.61.130  user=root
+Feb 20 12:14:29 combo sshd(pam_unix)[5709]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vedgi-gw.rosprint.net
+Aug  2 05:53:31 combo sshd(pam_unix)[24464]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.185.220.46
+Jan 12 22:37:31 combo sshd(pam_unix)[19728]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip67-90-201-250.z201-90-67.customer.algx.net
+Jan 16 12:39:28 combo sshd(pam_unix)[2867]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.118.94.55
+Oct 24 12:39:45 combo sshd(pam_unix)[25303]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=customer-201-134-69-250.uninet-ide.com.mx  user=fax
+Oct 15 15:50:35 combo sshd(pam_unix)[12400]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.17.1.3  user=root
+Feb  1 02:31:20 combo sshd(pam_unix)[3900]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.206.147  user=test
+Jul 19 07:35:41 combo sshd(pam_unix)[30508]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180  user=root
+Jan 14 07:05:56 combo sshd(pam_unix)[24910]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36  user=root
+Jul  6 02:22:32 combo sshd(pam_unix)[7702]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.122.48  user=root
+Jul 10 16:02:47 combo sshd(pam_unix)[30634]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jan 20 11:27:10 combo sshd(pam_unix)[15779]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-222-8-50.hinet-ip.hinet.net
+Nov 25 17:52:19 combo sshd(pam_unix)[15223]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.123.169  user=root
+Jan 21 23:58:17 combo sshd(pam_unix)[20421]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.200.44.248  user=root
+Sep 25 14:15:51 combo sshd(pam_unix)[23269]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Feb 24 10:39:45 combo sshd(pam_unix)[6209]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=206.51.234.204  user=root
+Sep  2 18:07:41 combo sshd(pam_unix)[14927]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.109.97.31  user=root
+Aug  7 08:58:56 combo sshd(pam_unix)[16455]: 7 more authentication failures; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ned.gcdtech.com  user=root
+Jun 20 09:20:06 combo sshd(pam_unix)[10041]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+Sep 13 04:05:11 combo sshd(pam_unix)[26864]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=yang.dorm13.nctu.edu.tw  user=nobody
+Jun 21 08:56:36 combo sshd(pam_unix)[14280]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66  user=guest
+Oct  3 17:53:03 combo sshd(pam_unix)[3621]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com
+Jun 22 03:17:52 combo sshd(pam_unix)[16222]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Nov 19 11:36:33 combo sshd(pam_unix)[13924]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Jan 15 16:52:59 combo sshd(pam_unix)[310]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212-41-230-229.hebragasse.xdsl-line.inode.at
+Aug 16 03:13:53 combo sshd(pam_unix)[15180]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.125.251.17  user=root
+Jan 14 06:59:21 combo sshd(pam_unix)[24881]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36  user=root
+Jan 26 12:22:43 combo kernel: audit(1138296128.157:454455): avc:  denied  { getattr } for  pid=1642 exe=/usr/sbin/rpc.idmapd path=/var/lib/nfs/rpc_pipefs/nfs dev= ino=4 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:rpc_pipefs_t tclass=dir
+Jun 30 20:53:06 combo klogind[19279]: Kerberos authentication failed
+Nov 29 04:43:23 combo kernel: httpd: page allocation failure. order:0, mode:0xd2
+Jan  7 15:45:10 combo sshd(pam_unix)[29221]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.71.234.22  user=test
+Nov 22 14:32:27 combo kernel: sendmail: page allocation failure. order:0, mode:0x1d2
+Feb 12 10:41:36 combo sshd(pam_unix)[4726]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=165.132.224.7  user=root
+Jul 10 16:02:14 combo sshd(pam_unix)[30588]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jun 30 20:53:06 combo klogind[19284]: Kerberos authentication failed
+Jan 18 04:28:32 combo sshd(pam_unix)[8680]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=wsip-24-120-168-221.lv.lv.cox.net
+Oct 25 14:09:56 combo named[2275]: couldn't add command channel 127.0.0.1#953: not found
+Jan 19 14:55:27 combo sshd(pam_unix)[13243]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=80.191.68.130  user=root
+Sep 12 07:41:19 combo sshd(pam_unix)[24544]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=63.107.208.121
+Jan 26 12:22:32 combo kernel: audit(1138296118.152:350122): avc:  denied  { read } for  pid=1263 exe=/usr/sbin/kudzu name=autoprobe dev= ino=-268434873 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysctl_dev_t tclass=file
+Oct 21 01:36:27 combo sshd(pam_unix)[9855]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.171.26.201  user=test
+Jun 25 09:11:48 combo rpc.statd[1636]: gethostbyname error for ^X���^X���^Z���^Z���%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Jan 15 05:10:03 combo sshd(pam_unix)[31720]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=connect.borran.com  user=adm
+Oct  2 10:12:38 combo sshd(pam_unix)[19636]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.75.224.23  user=root
+Jul  4 19:16:01 combo sshd(pam_unix)[3402]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+Jan 23 09:34:42 combo sshd(pam_unix)[29025]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Jan 29 22:37:47 combo sshd(pam_unix)[3425]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=julia.arkos.de  user=test
+Jan 14 06:59:10 combo sshd(pam_unix)[24865]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36  user=root
+Sep  3 08:57:32 combo sshd(pam_unix)[16989]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.109.97.31  user=root
+Dec  9 09:33:36 combo telnetd[15641]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Nov 22 14:31:10 combo kernel: httpd: page allocation failure. order:0, mode:0xd2
+Oct  9 10:30:44 combo sshd(pam_unix)[14020]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=kulab-6-33.cpc.ku.ac.th  user=amanda
+Aug 27 05:08:04 combo sshd(pam_unix)[23081]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.99.33.2  user=root
+Feb  6 01:42:07 combo sshd(pam_unix)[4110]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.86.92.242  user=root
+Jun 11 09:46:35 combo sshd(pam_unix)[6500]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jan 23 08:33:01 combo sshd(pam_unix)[28916]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ztc2-f.nas.tiscali.de  user=root
+Nov 17 14:29:01 combo sshd(pam_unix)[6412]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.98.81.12  user=root
+Jan 23 06:10:35 combo sshd(pam_unix)[28633]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ztc2-f.nas.tiscali.de  user=root
+Jan 26 12:22:44 combo kernel: audit(1138296160.393:589522): avc:  denied  { name_bind } for  pid=2013 exe=/usr/sbin/xinetd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:rsh_port_t tclass=tcp_socket
+Oct  7 18:52:33 combo sshd(pam_unix)[3238]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=coldea.teleson.ro  user=guest
+Oct 15 15:49:48 combo sshd(pam_unix)[12332]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.17.1.3  user=root
+Jul 10 16:03:05 combo sshd(pam_unix)[30662]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Sep  3 06:23:35 combo sshd(pam_unix)[16772]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net  user=root
+Feb  1 00:36:22 combo sshd(pam_unix)[3829]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=64.77.164.126  user=root
+Jan 26 12:22:45 combo kernel: audit(1138296165.182:606936): avc:  denied  { setexec } for  pid=2089 exe=/bin/su scontext=system_u:system_r:kernel_t tcontext=system_u:system_r:kernel_t tclass=process
+Jan 31 07:09:27 combo sshd(pam_unix)[3717]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=80.96.171.182  user=test
+Nov 13 05:24:11 combo sshd(pam_unix)[12581]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ridsdale.plus.com
+Nov  6 22:13:13 combo sshd(pam_unix)[19656]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=204.11.152.180  user=root
+Feb  2 22:15:05 combo sshd(pam_unix)[4006]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.162.81.22  user=root
+Aug  8 23:19:19 combo sshd(pam_unix)[21613]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.233.9.185  user=root
+Oct 15 15:49:48 combo sshd(pam_unix)[12328]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.17.1.3  user=root
+Jun 15 14:53:36 combo sshd(pam_unix)[23677]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+Oct 22 12:05:08 combo sshd(pam_unix)[15471]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.220.149.227  user=test
+Nov 25 02:10:51 combo kernel: sendmail: page allocation failure. order:0, mode:0x50
+Jun  9 06:06:41 combo xinetd[2003]: Service telnet failed to start and is deactivated.
+Nov 25 15:36:14 combo sshd(pam_unix)[14895]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.164.165.108  user=test
+Feb  1 21:36:00 combo sshd(pam_unix)[3944]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.135.191.21  user=test
+Sep 25 14:17:32 combo sshd(pam_unix)[23345]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Jan 26 12:22:22 combo kernel: audit(1138296104.542:222681): avc:  denied  { write } for  pid=310 exe=/sbin/initlog name=log dev=hda2 ino=1031636 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=sock_file
+Jan 26 12:22:25 combo kernel: cdrom: open failed.
+Jan 15 16:59:53 combo sshd(pam_unix)[328]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=mail.xmjl.com  user=root
+Jan 18 15:35:47 combo sshd(pam_unix)[9632]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=24.75.10.188  user=root
+Aug  7 09:00:27 combo sshd(pam_unix)[16464]: 7 more authentication failures; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ned.gcdtech.com  user=root
+Feb  1 02:07:03 combo sshd(pam_unix)[3858]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=216.120.255.208  user=root
+Feb 24 10:39:45 combo sshd(pam_unix)[6213]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=206.51.234.204  user=root
+Jun  9 06:07:24 combo mdmpd: mdmpd failed
+Sep 13 15:00:32 combo sshd(pam_unix)[28060]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.223.40.241  user=nobody
+Jan 26 12:22:13 combo kernel: audit(1138278092.594:113949): avc:  denied  { search } for  pid=511 exe=/usr/bin/rhgb dev= ino=1021 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ramfs_t tclass=dir
+Jan 13 17:47:04 combo sshd(pam_unix)[22941]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36
+Nov 22 12:26:37 combo sshd(pam_unix)[1370]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c-67-176-148-16.hsd1.il.comcast.net  user=root
+Jan 21 18:51:17 combo sshd(pam_unix)[19965]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.179.185.68  user=test
+Jan 26 12:22:44 combo PAM-rootok[2089]: pam_check_access failed, user does not have proper access: system_u:system_r:kernel_t
+Sep  4 14:09:05 combo sshd(pam_unix)[27908]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.109.97.31  user=root
+Feb 24 15:43:45 combo sshd(pam_unix)[6291]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-69-230-112-80.dsl.scrm01.pacbell.net
+Jun 28 20:58:50 combo sshd(pam_unix)[12671]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root
+Jun 22 04:30:56 combo sshd(pam_unix)[17139]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+Aug 11 10:42:24 combo sshd(pam_unix)[29898]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=147.163.65.158  user=amanda
+Nov 19 11:53:18 combo sshd(pam_unix)[14038]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Jan 23 07:27:32 combo sshd(pam_unix)[28801]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ztc2-f.nas.tiscali.de  user=root
+Jan 20 01:35:56 combo sshd(pam_unix)[14136]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dsl-kk-151.195.95.61.touchtelindia.net  user=root
+Jan 16 04:52:27 combo sshd(pam_unix)[2122]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212-41-230-229.hebragasse.xdsl-line.inode.at
+Jan 10 14:43:12 combo sshd(pam_unix)[9120]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.80.222.134  user=root
+Nov 19 11:36:32 combo sshd(pam_unix)[13917]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Nov  9 20:57:09 combo sshd(pam_unix)[28823]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=wcn3.tisnet.net.tw  user=root
+Feb  8 09:25:50 combo sshd(pam_unix)[4295]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=relic.centrodedatos.com
+Jul 10 16:01:59 combo sshd(pam_unix)[30558]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Feb 14 01:42:18 combo sshd(pam_unix)[4893]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=debsnet1.americannetlink.propagation.net
+Oct 21 03:56:44 combo sshd(pam_unix)[10079]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=solutions93.cobalt.com  user=root
+Jan 26 12:22:44 combo kernel: audit(1138296160.393:589484): avc:  denied  { name_bind } for  pid=2013 exe=/usr/sbin/xinetd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:ftp_port_t tclass=tcp_socket
+Feb  6 23:04:35 combo sshd(pam_unix)[4191]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.113.24.228  user=root
+Nov 22 09:36:01 combo kernel: httpd: page allocation failure. order:0, mode:0x1d2
+Aug 31 13:27:55 combo sshd(pam_unix)[8013]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.178.126.40  user=root
+Jun 13 15:03:41 combo sshd(pam_unix)[16965]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+Feb 26 13:43:57 combo sshd(pam_unix)[6628]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=221.230.128.214  user=nobody
+Nov 27 13:22:37 combo sshd(pam_unix)[26552]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=80.191.68.130  user=root
+Jul 10 16:33:02 combo sshd(pam_unix)[30734]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141  user=root
+Nov 23 06:16:15 combo sshd(pam_unix)[4504]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.114.82.252
+Dec  9 09:51:20 combo telnetd[16129]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Jan 31 04:35:07 combo sshd(pam_unix)[3633]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=jwhp5.chem.ncsu.edu  user=ftp
+Jan 20 11:27:10 combo sshd(pam_unix)[15792]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-222-8-50.hinet-ip.hinet.net
+Oct 24 06:06:50 combo sshd(pam_unix)[24728]: 1 more authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=88-213-181-81-cable.canals.ro  user=root
+Jan 10 14:43:12 combo sshd(pam_unix)[9113]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.80.222.134  user=root
+Sep  2 13:33:02 combo sshd(pam_unix)[14506]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.109.97.31  user=root
+Nov 13 08:57:53 combo sshd(pam_unix)[20758]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ridsdale.plus.com
+Sep  4 15:00:34 combo sshd(pam_unix)[28040]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62.205.38.26  user=root
+Feb 19 11:29:53 combo sshd(pam_unix)[5381]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.168.14.22
+Oct 23 01:21:20 combo sshd(pam_unix)[16622]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vit94-2-82-66-253-141.fbx.proxad.net
+Aug 22 14:42:43 combo sshd(pam_unix)[15475]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=srv2.alfahost.nl
+Jan 16 04:55:02 combo sshd(pam_unix)[2133]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212-41-230-229.hebragasse.xdsl-line.inode.at
+Jan 17 06:39:41 combo sshd(pam_unix)[6011]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.95.107.5  user=test
+Nov 11 04:35:10 combo sshd(pam_unix)[15629]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68-119-96-37.static.jcsn.tn.charter.com
+Feb 16 23:54:01 combo sshd(pam_unix)[5156]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=69.42.162.212  user=root
+Oct  9 09:19:41 combo sshd(pam_unix)[13874]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.153.147.92  user=test
+Aug 27 05:08:12 combo sshd(pam_unix)[23098]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.99.33.2  user=root
+Jan 13 18:03:40 combo sshd(pam_unix)[23005]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36
+Jan 12 03:40:40 combo sshd(pam_unix)[17319]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.95.107.5  user=test
+Feb 26 11:48:18 combo sshd(pam_unix)[6591]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=63.116.211.67  user=root
+Jun 30 20:16:17 combo sshd(pam_unix)[19203]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+Jun 23 01:41:29 combo sshd(pam_unix)[18975]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest
+Aug  8 00:10:46 combo sshd(pam_unix)[17864]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.106.127.226  user=root
+Nov 14 07:37:27 combo sshd(pam_unix)[27647]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.118.169.249  user=root
+Nov 18 00:12:03 combo sshd(pam_unix)[7557]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.157.108.173
+Sep  3 06:22:03 combo sshd(pam_unix)[16758]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net  user=root
+Sep 22 05:17:58 combo sshd(pam_unix)[12959]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.204.224.125  user=root
+Aug 29 07:22:25 combo sshd(pam_unix)[796]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Nov 12 23:54:25 combo sshd(pam_unix)[27314]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ns.cs-net.cz
+Nov 15 07:03:34 combo sshd(pam_unix)[30642]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.108.234.71  user=root
+Sep 22 05:17:56 combo sshd(pam_unix)[12957]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.204.224.125  user=root
+Feb 19 21:28:45 combo sshd(pam_unix)[5459]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.96.97.37  user=root
+Feb  1 00:36:21 combo sshd(pam_unix)[3828]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=64.77.164.126  user=root
+Aug 31 13:28:01 combo sshd(pam_unix)[8023]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.178.126.40  user=root
+Nov 25 17:52:19 combo sshd(pam_unix)[15212]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.123.169  user=root
+Jan 12 03:44:05 combo sshd(pam_unix)[17351]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.95.107.5
+Jul 12 06:09:45 combo sshd(pam_unix)[4059]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net  user=root
+Dec  8 14:10:58 combo sshd(pam_unix)[11660]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=81-233-245-217-no37.tbcn.telia.com  user=root
+Feb 26 11:48:18 combo sshd(pam_unix)[6595]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=63.116.211.67  user=root
+Oct 10 04:03:20 combo sshd(pam_unix)[16554]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=142.179.221.122  user=test
+Feb 16 16:43:23 combo sshd(pam_unix)[5100]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=wef.hebiace.edu.cn  user=test
+Jan 26 12:22:27 combo kernel: audit(1138296107.869:267298): avc:  denied  { write } for  pid=738 exe=/sbin/sysctl name=modprobe dev= ino=-268435402 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:sysctl_modprobe_t tclass=file
+Sep 17 13:19:29 combo sshd(pam_unix)[8467]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-64-171-127-90.dsl.sndg02.pacbell.net  user=root
+Jun 22 03:17:46 combo sshd(pam_unix)[16219]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Oct  9 10:30:26 combo sshd(pam_unix)[14012]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=kulab-6-33.cpc.ku.ac.th  user=amanda
+Nov 22 14:32:07 combo kernel: httpd: page allocation failure. order:0, mode:0xd2
+Sep  4 10:25:21 combo sshd(pam_unix)[27535]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.127.68.18  user=webmaster
+Feb  7 05:47:11 combo sshd(pam_unix)[4248]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-219-105-155.hinet-ip.hinet.net  user=root
+Oct  9 09:19:41 combo sshd(pam_unix)[13872]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.153.147.92  user=test
+Jan 15 05:10:02 combo sshd(pam_unix)[31708]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=connect.borran.com  user=adm
+Nov 25 10:07:36 combo sshd(pam_unix)[14044]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=xdsl-5103.wroclaw.dialog.net.pl  user=test
+Jun 15 12:13:19 combo sshd(pam_unix)[23414]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+Feb  5 18:17:39 combo sshd(pam_unix)[4081]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.154.205.252  user=root
+Oct  4 05:20:10 combo sshd(pam_unix)[21666]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ponteix.ssd.sk.ca
+Sep  4 15:00:22 combo sshd(pam_unix)[28031]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62.205.38.26  user=root
+Jan 26 12:22:24 combo kernel: audit(1138296104.852:227147): avc:  denied  { setattr } for  pid=716 exe=/sbin/udev name=device-mapper dev=hda2 ino=283649 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=chr_file
+Oct 24 12:38:38 combo sshd(pam_unix)[25271]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=customer-201-134-69-250.uninet-ide.com.mx  user=fax
+Sep 13 04:05:09 combo sshd(pam_unix)[26855]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=yang.dorm13.nctu.edu.tw  user=nobody
+Oct  6 05:46:42 combo sshd(pam_unix)[30736]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.39.240.228  user=root
+Feb 18 14:02:57 combo sshd(pam_unix)[5319]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c-24-7-117-28.hsd1.ca.comcast.net  user=root
+Jul 26 07:03:27 combo sshd(pam_unix)[28866]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Nov 10 08:12:15 combo sshd(pam_unix)[31399]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ridsdale.plus.com
+Oct 11 09:23:39 combo sshd(pam_unix)[23659]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.79.44.164
+Oct 10 15:58:52 combo sshd(pam_unix)[18522]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.69.8.78  user=test
+Sep 12 07:40:46 combo sshd(pam_unix)[24520]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=63.107.208.121
+Aug  8 23:19:27 combo sshd(pam_unix)[21622]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.233.9.185  user=root
+Jan 26 12:22:21 combo kernel: audit(1138296102.679:186228): avc:  denied  { read } for  pid=658 exe=/bin/grep name=devices dev= ino=1268 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:usbdevfs_t tclass=file
+Jan 31 04:35:39 combo sshd(pam_unix)[3657]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=jwhp5.chem.ncsu.edu  user=ftp
+Jun 14 03:00:15 combo sshd(pam_unix)[18028]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.101.42.106  user=root
+Nov 17 14:27:43 combo sshd(pam_unix)[6338]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.98.81.12  user=root
+Nov 13 07:57:50 combo sshd(pam_unix)[18558]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.90.137.90  user=root
+Nov 15 05:42:36 combo sshd(pam_unix)[30484]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=18-201.adsl.lpoy.dnainternet.fi
+Feb 26 13:44:14 combo sshd(pam_unix)[6641]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=221.230.128.214  user=nobody
+Feb  8 09:25:55 combo sshd(pam_unix)[4299]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=relic.centrodedatos.com
+Jan  7 15:45:10 combo sshd(pam_unix)[29228]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.71.234.22  user=test
+Nov 17 17:37:55 combo sshd(pam_unix)[6764]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.3
+Jan 16 04:55:02 combo sshd(pam_unix)[2135]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212-41-230-229.hebragasse.xdsl-line.inode.at
+Sep 19 05:57:56 combo xinetd[2034]: bind failed (Address already in use (errno = 98)). service = telnet
+Jul 10 16:02:47 combo sshd(pam_unix)[30635]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Oct 24 12:39:27 combo sshd(pam_unix)[25291]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=customer-201-134-69-250.uninet-ide.com.mx  user=fax
+Sep  4 10:25:21 combo sshd(pam_unix)[27534]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.127.68.18  user=webmaster
+Feb 24 11:16:38 combo sshd(pam_unix)[6247]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=83.228.113.166  user=root
+Feb  8 18:39:55 combo sshd(pam_unix)[4349]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.166.155.143  user=root
+Sep 22 05:17:06 combo sshd(pam_unix)[12939]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.204.224.125  user=root
+Nov 12 23:54:25 combo sshd(pam_unix)[27323]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ns.cs-net.cz
+Jun 15 02:04:59 combo sshd(pam_unix)[20885]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+Jan 30 12:00:57 combo sshd(pam_unix)[3574]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.117.59.34  user=amanda
+Jan 23 23:14:44 combo sshd(pam_unix)[30291]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Jul 11 17:58:19 combo sshd(pam_unix)[1331]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root
+Nov 16 00:00:41 combo sshd(pam_unix)[32316]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.85.177.225  user=root
+Feb 24 15:43:45 combo sshd(pam_unix)[6295]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-69-230-112-80.dsl.scrm01.pacbell.net
+Feb 17 12:08:58 combo sshd(pam_unix)[5202]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.red-217-126-158.staticip.rima-tde.net  user=root
+Nov 14 07:37:24 combo sshd(pam_unix)[27630]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.118.169.249  user=root
+Jan 16 04:52:26 combo sshd(pam_unix)[2110]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212-41-230-229.hebragasse.xdsl-line.inode.at
+Jan 30 11:25:55 combo sshd(pam_unix)[3517]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=mail.fullerproperties.com  user=root
+Oct  1 06:50:49 combo sshd(pam_unix)[12387]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=llekm-static-203.200.147.8.vsnl.net.in
+Aug  4 11:01:11 combo sshd(pam_unix)[32057]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.96.242.5  user=root
+Feb 16 23:53:31 combo sshd(pam_unix)[5138]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=69.42.162.212  user=root
+Jul 10 16:01:56 combo sshd(pam_unix)[30550]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Nov 25 10:58:54 combo sshd(pam_unix)[14189]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=59-106-15-121.r-bl100.sakura.ne.jp  user=root
+Jan 19 14:55:26 combo sshd(pam_unix)[13236]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=80.191.68.130  user=root
+Oct 16 21:24:07 combo sshd(pam_unix)[23404]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85-95-176-2.saransk.ru
+Oct 25 14:09:56 combo named[2275]: couldn't add command channel ::1#953: not found
+Nov  6 22:13:13 combo sshd(pam_unix)[19651]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=204.11.152.180  user=root
+Sep  4 20:24:24 combo sshd(pam_unix)[28592]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.109.97.31  user=root
+Feb 26 11:48:18 combo sshd(pam_unix)[6594]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=63.116.211.67  user=root
+Nov 13 07:57:55 combo sshd(pam_unix)[18557]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.90.137.90  user=root
+Jul 10 16:03:00 combo sshd(pam_unix)[30655]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jan 21 18:51:17 combo sshd(pam_unix)[19958]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.179.185.68  user=test
+Aug 27 02:31:55 combo sshd(pam_unix)[21255]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.233.104.78  user=root
+Oct 10 04:02:10 combo sshd(pam_unix)[16236]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=142.179.221.122  user=test
+Jan 14 16:54:44 combo sshd(pam_unix)[25754]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-77-13.hinet-ip.hinet.net
+Jul 10 16:02:39 combo sshd(pam_unix)[30622]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jan 24 10:09:34 combo rpc.statd[1608]: gethostbyname error for ^X���^X���^Z���^Z���%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Oct 23 12:40:02 combo klogind[22519]: Authentication failed from 81.181.213.88 (88-213-181-81-cable.canals.ro): Software caused connection abort
+Jul 27 14:41:58 combo kernel: Failure registering capabilities with the kernel
+Feb  9 17:15:08 combo sshd(pam_unix)[4433]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-68-120-97-218.dsl.sntc01.sbcglobal.net  user=test
+Nov 25 15:36:14 combo sshd(pam_unix)[14883]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.164.165.108  user=test
+Jul  4 19:15:48 combo sshd(pam_unix)[3380]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+Feb 24 07:13:17 combo sshd(pam_unix)[6184]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=83.228.113.166  user=root
+Jan 16 04:52:26 combo sshd(pam_unix)[2111]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212-41-230-229.hebragasse.xdsl-line.inode.at
+Jan 24 01:08:17 combo sshd(pam_unix)[30500]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host-213.50.3.6.addr.tdcsong.se  user=root
+Feb 10 06:02:26 combo sshd(pam_unix)[4507]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=web003.knoxville.xxpansion.net  user=root
+Nov 13 07:57:49 combo sshd(pam_unix)[18546]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.90.137.90  user=root
+Sep  5 23:25:10 combo sshd(pam_unix)[31807]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.99.33.2  user=root
+Sep  2 13:33:02 combo sshd(pam_unix)[14497]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.109.97.31  user=root
+Jan 31 05:01:01 combo sshd(pam_unix)[3688]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dsl092-052-016.phl1.dsl.speakeasy.net
+Oct  3 17:52:41 combo sshd(pam_unix)[3587]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com
+Nov  9 20:57:09 combo sshd(pam_unix)[28826]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=wcn3.tisnet.net.tw  user=root
+Jul 11 03:46:19 combo sshd(pam_unix)[31860]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128  user=root
+Feb  1 02:30:50 combo sshd(pam_unix)[3868]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.206.147  user=test
+Jan 26 12:22:14 combo kernel: audit(1138278101.742:164003): avc:  denied  { search } for  pid=594 exe=/usr/lib/vte/gnome-pty-helper dev= ino=1 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:devpts_t tclass=dir
+Nov  3 20:35:11 combo sshd(pam_unix)[6041]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.122.28.162  user=test
+Aug 22 14:42:43 combo sshd(pam_unix)[15491]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=srv2.alfahost.nl
+Oct  4 06:40:28 combo sshd(pam_unix)[22888]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com
+Sep 23 14:08:56 combo telnetd[31327]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Jan 17 06:41:04 combo sshd(pam_unix)[6025]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.95.107.5
+Jun 30 19:03:07 combo sshd(pam_unix)[19097]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Oct  4 06:07:32 combo sshd(pam_unix)[22330]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Aug  1 14:17:16 combo sshd(pam_unix)[22346]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=fastfood.com.pe  user=root
+Jan 18 04:28:18 combo sshd(pam_unix)[8659]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=wsip-24-120-168-221.lv.lv.cox.net  user=test
+Jun 30 20:53:06 combo klogind[19280]: Kerberos authentication failed
+Sep  3 06:22:56 combo sshd(pam_unix)[16766]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net  user=root
+Jul 20 23:37:40 combo sshd(pam_unix)[3308]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.55.234.102
+Aug  5 05:01:30 combo login[25160]: FAILED LOGIN 1 FROM (null) FOR    , Authentication failure
+Jan 31 05:01:01 combo sshd(pam_unix)[3690]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dsl092-052-016.phl1.dsl.speakeasy.net
+Aug 23 12:41:41 combo sshd(pam_unix)[19072]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.233.3.13
+Nov 14 20:33:48 combo sshd(pam_unix)[28807]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=mail.ntsec.gov.tw
+Jul  2 04:15:43 combo sshd(pam_unix)[24578]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+Dec  9 09:53:26 combo telnetd[16133]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Jan 17 10:46:55 combo sshd(pam_unix)[6386]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pppzss.shenzhen.gd.cn  user=nobody
+Nov 23 14:40:53 combo kernel: httpd: page allocation failure. order:0, mode:0x1d2
+Jan 15 17:00:01 combo sshd(pam_unix)[341]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=mail.xmjl.com  user=root
+Feb 15 14:10:43 combo sshd(pam_unix)[4999]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.95.1.26  user=root
+Jul 26 07:04:02 combo sshd(pam_unix)[28880]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Dec  9 10:14:08 combo sshd(pam_unix)[16222]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host-xe04.kiosk.ws  user=root
+Oct  7 18:52:31 combo sshd(pam_unix)[3231]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=coldea.teleson.ro  user=guest
+Jan 20 03:16:52 combo sshd(pam_unix)[14306]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.100.127.12  user=root
+Feb 15 14:10:35 combo sshd(pam_unix)[4989]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.95.1.26  user=root
+Feb 10 06:02:06 combo sshd(pam_unix)[4483]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=web003.knoxville.xxpansion.net  user=root
+Aug  8 00:09:21 combo sshd(pam_unix)[17828]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.106.127.226  user=root
+Sep 13 10:08:21 combo sshd(pam_unix)[27625]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dpc6682015008.direcpc.com  user=root
+Jun 22 03:17:26 combo sshd(pam_unix)[16206]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jan 14 16:54:44 combo sshd(pam_unix)[25752]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-77-13.hinet-ip.hinet.net
+Dec  9 09:51:14 combo telnetd[16127]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Nov 28 13:30:11 combo sshd(pam_unix)[30939]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-68-178-149-108.ip.secureserver.net  user=root
+Jul  1 00:21:30 combo sshd(pam_unix)[19642]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Nov 17 14:28:22 combo sshd(pam_unix)[6375]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.98.81.12  user=root
+Oct 23 01:21:22 combo sshd(pam_unix)[16629]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vit94-2-82-66-253-141.fbx.proxad.net
+Sep  4 10:25:21 combo sshd(pam_unix)[27539]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.127.68.18  user=webmaster
+Jun 30 20:53:04 combo klogind[19274]: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+Jun 25 04:41:51 combo sshd(pam_unix)[31024]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+Feb 20 12:14:30 combo sshd(pam_unix)[5714]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vedgi-gw.rosprint.net
+Oct 12 13:50:50 combo sshd(pam_unix)[28667]: 1 more authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=81.196.56.67  user=test
+Dec  5 02:14:24 combo sshd(pam_unix)[2635]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.20.75.139  user=root
+Sep 25 14:17:05 combo sshd(pam_unix)[23331]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Aug 29 07:23:02 combo sshd(pam_unix)[856]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Jan 23 06:10:34 combo sshd(pam_unix)[28629]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ztc2-f.nas.tiscali.de  user=root
+Sep 30 13:54:59 combo sshd(pam_unix)[10103]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.155.31.54  user=root
+Feb 23 13:54:51 combo sshd(pam_unix)[6092]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=66-50-123-66.prtc.net
+Jul  9 19:34:06 combo sshd(pam_unix)[23780]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root
+Jul 27 18:42:58 combo named[2288]: couldn't add command channel 127.0.0.1#953: not found
+Jul  9 19:34:06 combo sshd(pam_unix)[23784]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root
+Oct  9 10:30:14 combo sshd(pam_unix)[14005]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=kulab-6-33.cpc.ku.ac.th  user=amanda
+Nov 17 04:29:47 combo sshd(pam_unix)[5130]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.3
+Jun 11 09:46:21 combo sshd(pam_unix)[6490]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Sep  3 08:57:32 combo sshd(pam_unix)[16993]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.109.97.31  user=root
+Aug 29 07:23:41 combo sshd(pam_unix)[930]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Feb 28 01:49:00 combo sshd(pam_unix)[6724]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=www.buller.hoover.fresno.k12.ca.us  user=root
+Sep 15 04:35:20 combo sshd(pam_unix)[1175]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-41-150.hinet-ip.hinet.net  user=root
+Nov 18 00:12:02 combo sshd(pam_unix)[7553]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.157.108.173
+Nov 19 11:36:45 combo sshd(pam_unix)[13928]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Nov 11 04:35:00 combo sshd(pam_unix)[15618]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68-119-96-37.static.jcsn.tn.charter.com
+Sep  4 15:00:59 combo sshd(pam_unix)[28055]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62.205.38.26  user=root
+Jun 13 20:13:11 combo sshd(pam_unix)[17428]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=under-eepc58.kaist.ac.kr
+Nov 22 19:25:55 combo kernel: httpd: page allocation failure. order:0, mode:0xd2
+Aug  4 07:00:29 combo sshd(pam_unix)[31682]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=arx58.internetdsl.tpnet.pl
+Jun 21 08:56:36 combo sshd(pam_unix)[14282]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66  user=guest
+Aug 29 07:23:40 combo sshd(pam_unix)[920]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Jan 24 05:46:52 combo sshd(pam_unix)[31638]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.162.81.22
+Jan 21 18:51:18 combo sshd(pam_unix)[19973]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.179.185.68  user=test
+Sep 23 14:08:56 combo telnetd[31329]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Aug 29 07:23:02 combo sshd(pam_unix)[854]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Dec  6 05:01:26 combo kernel: httpd: page allocation failure. order:0, mode:0xd2
+Jan 31 05:01:02 combo sshd(pam_unix)[3705]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dsl092-052-016.phl1.dsl.speakeasy.net
+Jan 26 12:22:22 combo kernel: audit(1138296104.506:222519): avc:  denied  { create } for  pid=705 exe=/sbin/minilogd name=log scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=sock_file
+Nov 13 08:57:53 combo sshd(pam_unix)[20759]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ridsdale.plus.com
+Feb 18 04:29:58 combo sshd(pam_unix)[5286]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c-66-176-150-53.hsd1.fl.comcast.net  user=root
+Feb 14 01:42:18 combo sshd(pam_unix)[4889]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=debsnet1.americannetlink.propagation.net
+Jan 15 16:53:00 combo sshd(pam_unix)[32767]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212-41-230-229.hebragasse.xdsl-line.inode.at
+Aug 23 12:41:40 combo sshd(pam_unix)[19059]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.233.3.13
+Aug  4 07:00:29 combo sshd(pam_unix)[31677]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=arx58.internetdsl.tpnet.pl
+Jun 14 11:56:37 combo sshd(pam_unix)[19606]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.233.12.249  user=root
+Feb  6 01:42:07 combo sshd(pam_unix)[4113]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.86.92.242  user=root
+Jan 26 12:22:44 combo kernel: audit(1138296160.391:589425): avc:  denied  { name_bind } for  pid=2013 exe=/usr/sbin/xinetd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:amidxtape_port_t tclass=tcp_socket
+Nov 19 11:52:26 combo sshd(pam_unix)[13984]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Jan 20 01:55:24 combo sshd(pam_unix)[14174]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.219.231.2  user=root
+Feb 15 14:10:33 combo sshd(pam_unix)[4985]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.95.1.26  user=root
+Feb  6 23:04:50 combo sshd(pam_unix)[4208]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.113.24.228  user=root
+Jan 30 11:25:55 combo sshd(pam_unix)[3518]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ftc.fullerproperties.com  user=root
+Aug 29 07:23:28 combo sshd(pam_unix)[906]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Jan 12 03:44:00 combo sshd(pam_unix)[17350]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.95.107.5
+Aug 31 19:10:44 combo sshd(pam_unix)[8524]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=213.197.195.245
+Jun 29 12:12:01 combo sshd(pam_unix)[15702]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+Oct 23 01:21:20 combo sshd(pam_unix)[16631]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vit94-2-82-66-253-141.fbx.proxad.net
+Oct 14 01:54:27 combo sshd(pam_unix)[2458]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=www.lssu.edu  user=test
+Jan 26 12:22:14 combo kernel: audit(1138278101.749:164013): avc:  denied  { read write } for  pid=594 exe=/usr/lib/vte/gnome-pty-helper name=0 dev= ino=2 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:devpts_t tclass=chr_file
+Jun 15 14:53:35 combo sshd(pam_unix)[23671]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+Sep 20 19:59:23 combo sshd(pam_unix)[7676]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.185.162.130  user=root
+Jul 10 16:02:34 combo sshd(pam_unix)[30612]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Dec  8 14:10:59 combo sshd(pam_unix)[11671]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=81-233-245-217-no37.tbcn.telia.com  user=root
+Oct  4 06:07:33 combo sshd(pam_unix)[22344]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Aug 29 07:23:41 combo sshd(pam_unix)[922]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Sep 25 14:16:21 combo sshd(pam_unix)[23303]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Jan 26 12:22:13 combo kernel: audit(1138278089.855:0): avc:  denied  { getattr } for  pid=1 exe=/sbin/init path=/dev/initctl dev=hda2 ino=1031635 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=fifo_file
+Sep  2 14:37:15 combo sshd(pam_unix)[14608]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=i222-150-132-171.s02.a012.ap.plala.or.jp  user=root
+Jun 28 20:58:46 combo sshd(pam_unix)[12665]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root
+Jan 14 06:59:20 combo sshd(pam_unix)[24878]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36  user=root
+Jun 25 04:41:49 combo sshd(pam_unix)[31036]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+Jan 17 10:46:50 combo sshd(pam_unix)[6371]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pppzss.shenzhen.gd.cn  user=nobody
+Jan 10 10:12:58 combo sshd(pam_unix)[8709]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.43.187.219
+Sep  2 18:07:42 combo sshd(pam_unix)[14938]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.109.97.31  user=root
+Dec  5 02:14:22 combo sshd(pam_unix)[2622]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.20.75.139  user=root
+Jan 19 19:50:13 combo sshd(pam_unix)[13656]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dsl-kk-151.195.95.61.touchtelindia.net  user=root
+Jan 18 04:28:18 combo sshd(pam_unix)[8664]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=wsip-24-120-168-221.lv.lv.cox.net  user=test
+Jul 23 20:04:42 combo sshd(pam_unix)[16161]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217  user=root
+Nov 23 14:41:19 combo kernel: httpd: page allocation failure. order:0, mode:0xd2
+Feb 10 06:02:31 combo sshd(pam_unix)[4513]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=web003.knoxville.xxpansion.net  user=root
+Sep  2 01:45:36 combo sshd(pam_unix)[11875]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.179.61.130  user=root
+Jun 11 09:46:44 combo sshd(pam_unix)[6508]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 13 15:10:30 combo sshd(pam_unix)[16992]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=under-eepc58.kaist.ac.kr  user=root
+Aug 29 07:22:49 combo sshd(pam_unix)[834]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Jan 30 11:30:55 combo sshd(pam_unix)[3547]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.135.191.21
+Dec  2 08:39:43 combo sshd(pam_unix)[20024]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.3
+Nov 28 13:30:24 combo sshd(pam_unix)[30943]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-68-178-149-108.ip.secureserver.net  user=root
+Feb  9 17:15:08 combo sshd(pam_unix)[4434]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-68-120-97-218.dsl.sntc01.sbcglobal.net  user=test
+Nov 11 04:34:50 combo sshd(pam_unix)[15613]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68-119-96-37.static.jcsn.tn.charter.com
+Aug 27 15:56:03 combo sshd(pam_unix)[24113]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62.154.184.86
+Jan 22 20:01:14 combo sshd(pam_unix)[26140]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.75.233.249
+Oct 10 04:02:30 combo sshd(pam_unix)[16517]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=142.179.221.122  user=test
+Jan 26 12:22:41 combo xinetd[2013]: bind failed (Address already in use (errno = 98)). service = telnet
+Jan 26 12:22:24 combo kernel: audit(1138296105.194:235300): avc:  denied  { relabelto } for  pid=724 exe=/sbin/restorecon name=device-mapper dev=hda2 ino=283649 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:device_t tclass=chr_file
+Sep 19 05:57:38 combo kernel: PCI: Invalid ACPI-PCI IRQ routing table
+Feb 16 23:54:05 combo sshd(pam_unix)[5162]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=69.42.162.212  user=root
+Oct 23 01:21:20 combo sshd(pam_unix)[16619]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vit94-2-82-66-253-141.fbx.proxad.net
+Jul 23 20:04:41 combo sshd(pam_unix)[16158]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217  user=root
+Nov 17 14:27:56 combo sshd(pam_unix)[6355]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.98.81.12  user=root
+Jan 12 03:40:45 combo sshd(pam_unix)[17327]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.95.107.5  user=test
+Oct  7 18:54:06 combo sshd(pam_unix)[3276]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=bozesan.teleson.ro  user=test
+Sep 22 05:17:36 combo sshd(pam_unix)[12947]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.204.224.125  user=root
+Oct 14 01:54:27 combo sshd(pam_unix)[2448]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=www.lssu.edu  user=test
+Sep 25 14:16:08 combo sshd(pam_unix)[23289]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Jan 14 06:59:11 combo sshd(pam_unix)[24869]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36  user=root
+Jan 31 04:35:17 combo sshd(pam_unix)[3637]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=jwhp5.chem.ncsu.edu  user=ftp
+Jan 26 12:22:43 combo kernel: audit(1138296133.544:515571): avc:  denied  { relabelto } for  pid=1792 exe=/sbin/restorecon name=ptal dev=hda2 ino=309507 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:etc_t tclass=dir
+Nov 18 00:12:02 combo sshd(pam_unix)[7544]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.157.108.173
+Jan 12 22:37:31 combo sshd(pam_unix)[19722]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip67-90-201-250.z201-90-67.customer.algx.net
+Oct  8 13:17:00 combo sshd(pam_unix)[6220]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=test.mtc.ntnu.edu.tw
+Nov 25 15:36:14 combo sshd(pam_unix)[14880]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.164.165.108  user=test
+Nov 26 16:31:06 combo sshd(pam_unix)[19948]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=84.233.148.165  user=webmaster
+Jan 23 23:14:44 combo sshd(pam_unix)[30294]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Sep 25 14:06:07 combo sshd(pam_unix)[23166]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Jan 18 04:28:28 combo sshd(pam_unix)[8678]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=wsip-24-120-168-221.lv.lv.cox.net
+Jun 22 03:17:56 combo sshd(pam_unix)[16226]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 29 10:08:20 combo sshd(pam_unix)[15491]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+Aug 27 05:08:04 combo sshd(pam_unix)[23085]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.99.33.2  user=root
+Dec  5 10:39:36 combo sshd(pam_unix)[5440]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=www.njust.edu.cn  user=test
+Nov 17 14:28:22 combo sshd(pam_unix)[6377]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.98.81.12  user=root
+Oct 10 04:02:20 combo sshd(pam_unix)[16377]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=142.179.221.122  user=test
+Feb 26 11:48:19 combo sshd(pam_unix)[6598]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=63.116.211.67  user=root
+Jul 15 01:03:50 combo sshd(pam_unix)[12639]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root
+Jan 31 18:44:52 combo sshd(pam_unix)[3791]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.100.28.173  user=root
+Sep  2 13:33:02 combo sshd(pam_unix)[14505]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.109.97.31  user=root
+Jun 13 15:10:30 combo sshd(pam_unix)[16996]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=under-eepc58.kaist.ac.kr  user=root
+Sep 25 14:15:56 combo sshd(pam_unix)[23278]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep  4 17:12:20 combo sshd(pam_unix)[28279]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.109.97.31  user=root
+Jan 24 16:40:23 combo sshd(pam_unix)[32592]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=66.199.253.10  user=root
+Feb 15 14:10:05 combo sshd(pam_unix)[4973]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.95.1.26  user=root
+Jun 15 02:04:59 combo sshd(pam_unix)[20897]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+Feb 24 11:16:38 combo sshd(pam_unix)[6248]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=83.228.113.166  user=root
+Jan 17 10:46:55 combo sshd(pam_unix)[6387]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pppzss.shenzhen.gd.cn  user=nobody
+Jan 20 01:55:49 combo sshd(pam_unix)[14188]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.219.231.2  user=root
+Feb  2 12:25:24 combo sshd(pam_unix)[3992]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.136.20.50  user=root
+Jan 17 06:41:06 combo sshd(pam_unix)[6024]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.95.107.5
+Dec  9 09:04:41 combo telnetd[15559]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Jan 12 13:14:34 combo sshd(pam_unix)[18916]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36  user=root
+Jun 12 14:10:50 combo sshd(pam_unix)[13122]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.38.14.205
+Jan 13 20:11:41 combo sshd(pam_unix)[23193]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.118.170.60  user=root
+Jan 11 21:05:52 combo sshd(pam_unix)[16719]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=customer-reverse-entry.69.59.170.12  user=test
+Oct  6 05:46:39 combo sshd(pam_unix)[30729]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.39.240.228  user=root
+Feb 19 21:28:43 combo sshd(pam_unix)[5448]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.96.97.37  user=root
+Feb  1 02:07:08 combo sshd(pam_unix)[3864]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=216.120.255.208  user=root
+Sep 20 19:59:23 combo sshd(pam_unix)[7674]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.185.162.130  user=root
+Jan 27 17:31:55 combo sshd(pam_unix)[3318]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.82.188.147  user=nobody
+Jan 26 12:23:22 combo kernel: audit(1138296202.196:708129): avc:  denied  { name_bind } for  pid=2300 exe=/usr/sbin/snmpd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:snmp_port_t tclass=tcp_socket
+Feb 17 12:08:59 combo sshd(pam_unix)[5213]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.red-217-126-158.staticip.rima-tde.net  user=root
+Oct  3 17:52:41 combo sshd(pam_unix)[3588]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com
+Jan 24 01:08:17 combo sshd(pam_unix)[30495]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host-213.50.3.6.addr.tdcsong.se  user=root
+Feb 11 12:02:21 combo sshd(pam_unix)[4658]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.178.20.170  user=test
+Aug 23 23:57:06 combo sshd(pam_unix)[20027]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.222.60.88  user=root
+Aug 29 07:23:17 combo sshd(pam_unix)[890]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Jan 17 06:39:19 combo sshd(pam_unix)[5994]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.95.107.5  user=test
+Dec  9 09:58:53 combo telnetd[16151]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Feb 17 16:38:18 combo sshd(pam_unix)[5245]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c-24-7-117-28.hsd1.ca.comcast.net  user=root
+Oct  2 10:12:37 combo sshd(pam_unix)[19643]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.75.224.23  user=root
+Sep 25 14:17:05 combo sshd(pam_unix)[23334]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:17:19 combo sshd(pam_unix)[23339]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Feb  7 19:55:54 combo sshd(pam_unix)[4278]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.162.81.22
+Jul 19 07:35:41 combo sshd(pam_unix)[30504]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180  user=root
+Oct 15 15:49:59 combo sshd(pam_unix)[12335]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.17.1.3  user=root
+Nov 18 00:12:03 combo sshd(pam_unix)[7546]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.157.108.173
+Nov 14 20:33:48 combo sshd(pam_unix)[28797]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=mail.ntsec.gov.tw
+Oct 11 07:00:15 combo sshd(pam_unix)[23312]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-232-147-37.nexg.net  user=root
+Jan 24 16:40:09 combo sshd(pam_unix)[32566]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=66.199.253.10  user=root
+Nov 26 06:45:12 combo sshd(pam_unix)[18589]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.35.204.36  user=root
+Jul  4 09:33:14 combo sshd(pam_unix)[2547]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.76.59.29  user=root
+Aug  2 05:53:17 combo sshd(pam_unix)[24447]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.185.220.46
+Oct 16 06:20:09 combo sshd(pam_unix)[19774]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.206.193.55  user=root
+Feb  5 18:17:26 combo sshd(pam_unix)[4069]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.154.205.252  user=root
+Jan 14 20:24:59 combo sshd(pam_unix)[26087]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36  user=root
+Jun 22 03:18:20 combo sshd(pam_unix)[16248]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Sep  2 18:07:42 combo sshd(pam_unix)[14940]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.109.97.31  user=root
+Jun 13 10:18:09 combo sshd(pam_unix)[16515]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.153.202.254  user=root
+Dec  5 02:14:24 combo sshd(pam_unix)[2632]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.20.75.139  user=root
+Dec  9 09:58:32 combo telnetd[16147]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Sep 13 04:04:36 combo sshd(pam_unix)[26646]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=yang.dorm13.nctu.edu.tw  user=nobody
+Jan 16 04:55:02 combo sshd(pam_unix)[2141]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212-41-230-229.hebragasse.xdsl-line.inode.at
+Feb 15 14:10:46 combo sshd(pam_unix)[5005]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.95.1.26  user=root
+Jan 19 14:55:27 combo sshd(pam_unix)[13239]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=80.191.68.130  user=root
+Jun 28 21:42:46 combo sshd(pam_unix)[12755]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.115.206.155
+Oct 16 06:20:09 combo sshd(pam_unix)[19773]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.206.193.55  user=root
+Jan 14 20:25:13 combo sshd(pam_unix)[26111]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36  user=root
+Dec  9 08:56:38 combo telnetd[15522]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Jan 23 08:43:50 combo sshd(pam_unix)[28933]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.168.94.4  user=root
+Oct  4 08:36:54 combo sshd(pam_unix)[24472]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=146.164.89.10  user=nobody
+Feb 28 01:49:02 combo sshd(pam_unix)[6736]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=www.buller.hoover.fresno.k12.ca.us  user=root
+Jan 26 12:23:57 combo kernel: audit(1138296225.426:965370): avc:  denied  { unlink } for  pid=2417 exe=/usr/bin/gdm-binary name=.gdmfifo dev=hda2 ino=943272 scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:file_t tclass=fifo_file
+Jun 13 15:03:41 combo sshd(pam_unix)[16966]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+Feb 24 05:45:22 combo sshd(pam_unix)[6168]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=206.51.234.204  user=root
+Feb  5 18:17:26 combo sshd(pam_unix)[4067]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.154.205.252  user=root
+Jan 13 17:47:21 combo sshd(pam_unix)[22951]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36
+Feb 24 05:45:21 combo sshd(pam_unix)[6158]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=206.51.234.204  user=root
+Aug 31 19:10:42 combo sshd(pam_unix)[8511]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=213.197.195.245
+Nov 30 05:33:03 combo sshd(pam_unix)[7631]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip67-94-174-130.z174-94-67.customer.algx.net
+Nov 23 08:21:25 combo kernel: httpd: page allocation failure. order:0, mode:0xd2
+Jan 30 07:49:00 combo sshd(pam_unix)[3474]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-67-124-23-108.dsl.lsan03.pacbell.net  user=test
+Jul 10 16:03:11 combo sshd(pam_unix)[30672]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Nov 17 14:28:48 combo sshd(pam_unix)[6403]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.98.81.12  user=root
+Nov 19 11:52:23 combo sshd(pam_unix)[13978]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Jun 15 20:05:31 combo sshd(pam_unix)[24139]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net
+Jun 28 08:10:24 combo sshd(pam_unix)[11517]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+Dec  5 10:39:36 combo sshd(pam_unix)[5439]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=www.njust.edu.cn  user=test
+Feb  8 09:26:00 combo sshd(pam_unix)[4306]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=relic.centrodedatos.com
+Nov 19 22:42:39 combo sshd(pam_unix)[15468]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.126.92.146  user=root
+Oct 15 03:48:38 combo sshd(pam_unix)[8216]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=mail.3-plan.ru  user=root
+Jun 22 04:30:55 combo sshd(pam_unix)[17131]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+Dec  4 03:49:11 combo kernel: httpd: page allocation failure. order:0, mode:0xd2
+Sep  2 18:07:41 combo sshd(pam_unix)[14925]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.109.97.31  user=root
+Jan 20 01:35:37 combo sshd(pam_unix)[14128]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dsl-kk-151.195.95.61.touchtelindia.net  user=root
+Jul 10 16:33:04 combo sshd(pam_unix)[30740]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141  user=root
+Jul 18 23:01:27 combo sshd(pam_unix)[28986]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw
+Feb 15 14:10:53 combo sshd(pam_unix)[5011]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.95.1.26  user=root
+Jan 17 10:46:50 combo sshd(pam_unix)[6375]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pppzss.shenzhen.gd.cn  user=nobody
+Jan 31 05:01:01 combo sshd(pam_unix)[3687]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dsl092-052-016.phl1.dsl.speakeasy.net
+Feb 11 12:02:22 combo sshd(pam_unix)[4663]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.178.20.170  user=test
+Nov 19 11:52:49 combo sshd(pam_unix)[14010]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Jan 23 05:28:15 combo sshd(pam_unix)[28522]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ztc2-f.nas.tiscali.de  user=root
+Aug 27 13:03:28 combo sshd(pam_unix)[23787]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=s010600112fb9bd72.vf.shawcable.net
+Dec  9 09:01:44 combo telnetd[15557]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Jun 17 19:43:13 combo sshd(pam_unix)[30565]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.46.224.253  user=guest
+Aug  7 09:01:09 combo sshd(pam_unix)[16485]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ned.gcdtech.com  user=root
+Sep 30 13:54:59 combo sshd(pam_unix)[10104]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.155.31.54  user=root
+Aug  2 11:25:03 combo sshd(pam_unix)[25524]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=200.150.146.123
+Jul 14 14:59:56 combo sshd(pam_unix)[11708]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net  user=root
+Sep 13 15:00:37 combo sshd(pam_unix)[28067]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.223.40.241  user=nobody
+Jun 30 20:53:06 combo klogind[19277]: Kerberos authentication failed
+Sep  9 08:15:44 combo sshd(pam_unix)[11140]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=server.novacero.com  user=test
+Oct 11 07:00:00 combo sshd(pam_unix)[23287]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-232-147-37.nexg.net  user=root
+Nov 24 09:36:48 combo sshd(pam_unix)[9870]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ev1s-216-127-80-2.ev1servers.net
+Aug  5 05:01:30 combo login[25160]: FAILED LOGIN 2 FROM (null) FOR , Authentication failure
+Oct 15 15:50:47 combo sshd(pam_unix)[12411]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.17.1.3  user=root
+Jun 25 04:41:49 combo sshd(pam_unix)[31035]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+Jan 11 03:55:10 combo sshd(pam_unix)[10222]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.155.28.28
+Jan 31 04:34:59 combo sshd(pam_unix)[3631]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=jwhp5.chem.ncsu.edu  user=ftp
+Jul 10 16:01:45 combo sshd(pam_unix)[30534]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jan 16 04:58:39 combo sshd(pam_unix)[2187]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212-41-230-229.hebragasse.xdsl-line.inode.at
+Nov 22 12:26:37 combo sshd(pam_unix)[1371]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c-67-176-148-16.hsd1.il.comcast.net  user=root
+Jun 28 08:10:24 combo sshd(pam_unix)[11510]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+Aug 27 05:08:04 combo sshd(pam_unix)[23082]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.99.33.2  user=root
+Jan 16 00:23:28 combo sshd(pam_unix)[961]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.133.4.220
+Jul 11 03:46:14 combo sshd(pam_unix)[31851]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128  user=root
+Jun 25 04:41:49 combo sshd(pam_unix)[31034]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+Jan 14 02:38:28 combo sshd(pam_unix)[23716]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.157.209.133
+Feb  7 19:55:44 combo sshd(pam_unix)[4274]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.162.81.22
+Nov 23 20:27:12 combo sshd(pam_unix)[6388]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=cfp.acm.org
+Jan 26 12:22:44 combo kernel: audit(1138296160.392:589444): avc:  denied  { name_bind } for  pid=2013 exe=/usr/sbin/xinetd scontext=system_u:system_r:kernel_t tcontext=system_u:object_r:printer_port_t tclass=tcp_socket
+Aug 31 13:27:59 combo sshd(pam_unix)[8021]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.178.126.40  user=root
+Jan 23 13:19:55 combo sshd(pam_unix)[29473]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.232.48.98  user=test
+Nov 19 11:37:27 combo sshd(pam_unix)[13942]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Dec  3 16:19:11 combo sshd(pam_unix)[26100]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ap00.atfdc2-unet.ocn.ne.jp
+Aug  2 05:53:26 combo sshd(pam_unix)[24458]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.185.220.46
+Sep  4 10:31:03 combo sshd(pam_unix)[27559]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.74.86.1
+Jun 30 20:53:06 combo klogind[19279]: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+Nov 23 20:27:12 combo sshd(pam_unix)[6383]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=cfp.acm.org
+Jun 15 14:53:32 combo sshd(pam_unix)[23664]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+Feb 24 07:13:16 combo sshd(pam_unix)[6186]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=83.228.113.166  user=root
+Oct  4 06:40:28 combo sshd(pam_unix)[22891]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com
+Aug 29 07:22:39 combo sshd(pam_unix)[825]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Jul  2 04:15:43 combo sshd(pam_unix)[24579]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+Nov 22 19:26:45 combo kernel: httpd: page allocation failure. order:0, mode:0x50
+Feb  8 09:26:03 combo sshd(pam_unix)[4312]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=relic.centrodedatos.com
+Jan 12 03:43:59 combo sshd(pam_unix)[17345]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.95.107.5
+Sep 17 13:19:29 combo sshd(pam_unix)[8466]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-64-171-127-90.dsl.sndg02.pacbell.net  user=root
+Nov 22 02:38:21 combo sshd(pam_unix)[30884]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.183.248.130
+Jan 18 00:03:43 combo sshd(pam_unix)[7510]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.208.122.221
+Jun 25 04:41:51 combo sshd(pam_unix)[31021]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+Nov 19 11:53:07 combo sshd(pam_unix)[14025]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=pc180-233.nttu.edu.tw  user=root
+Feb 18 05:44:28 combo sshd(pam_unix)[5294]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=dialup-mum-203.94.231.54.mtnl.net.in  user=test
+Jan 20 11:27:10 combo sshd(pam_unix)[15777]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-222-8-50.hinet-ip.hinet.net
+Jun 18 01:30:59 combo sshd(pam_unix)[31201]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+Aug 31 13:27:51 combo sshd(pam_unix)[8011]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.178.126.40  user=root
+Nov 10 08:12:13 combo sshd(pam_unix)[31397]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ridsdale.plus.com
+Oct 10 04:03:10 combo sshd(pam_unix)[16542]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=142.179.221.122  user=test
+Jan 16 12:39:29 combo sshd(pam_unix)[2873]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.118.94.55
+Aug  2 05:53:27 combo sshd(pam_unix)[24460]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.185.220.46
+Aug 25 18:30:40 combo sshd(pam_unix)[26309]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.99.254.124  user=root
+Jan 26 12:20:22 combo smartd[1760]: smartd received signal 15: Terminated
+Feb 22 11:46:42 combo sshd(pam_unix)[6003]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203186089173.ctinets.com  user=root
+Oct  4 08:36:54 combo sshd(pam_unix)[24468]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=146.164.89.10  user=nobody
+Oct 15 15:50:58 combo sshd(pam_unix)[12427]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.17.1.3  user=root
+Aug 21 06:55:18 combo sshd(pam_unix)[12008]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.143.128.51  user=root
+Oct 12 01:42:35 combo sshd(pam_unix)[26075]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=88-213-181-81-cable.canals.ro  user=test
+Feb  8 09:26:08 combo sshd(pam_unix)[4321]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=relic.centrodedatos.com
+Aug  2 19:35:17 combo sshd(pam_unix)[26211]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=stat.62-123-40-155.atlanet.it
+Jan 16 04:58:40 combo sshd(pam_unix)[2190]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212-41-230-229.hebragasse.xdsl-line.inode.at
+Feb 15 18:54:15 combo sshd(pam_unix)[5030]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=xdsl-81-173-145-209.netcologne.de  user=test
+Oct 14 01:54:27 combo sshd(pam_unix)[2447]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=www.lssu.edu  user=test
+Aug 29 07:22:52 combo sshd(pam_unix)[851]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Oct 15 15:49:59 combo sshd(pam_unix)[12334]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.17.1.3  user=root
+Oct 10 05:58:09 combo sshd(pam_unix)[17211]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=221.12.60.23  user=test
+Aug 16 03:13:58 combo sshd(pam_unix)[15183]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.125.251.17  user=root
+Jun 28 08:10:25 combo sshd(pam_unix)[11519]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+Feb  9 00:57:44 combo sshd(pam_unix)[4402]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-145-62-59.adsl.ttn.net  user=test
+Jan 23 06:47:25 combo sshd(pam_unix)[28684]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ztc2-f.nas.tiscali.de  user=root
+Feb  8 09:26:15 combo sshd(pam_unix)[4330]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=relic.centrodedatos.com
+Sep  4 15:00:22 combo sshd(pam_unix)[28030]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62.205.38.26  user=root
+Jan 10 14:15:28 combo sshd(pam_unix)[9050]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=mailman.ywso.com  user=test
+Oct 15 15:51:10 combo sshd(pam_unix)[12440]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.17.1.3  user=root
+Feb 16 23:53:52 combo sshd(pam_unix)[5152]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=69.42.162.212  user=root
+Jun 11 09:46:18 combo sshd(pam_unix)[6488]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Dec  9 09:09:23 combo telnetd[15565]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Aug  7 09:00:27 combo sshd(pam_unix)[16465]: 7 more authentication failures; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ned.gcdtech.com  user=root
+Oct  4 08:36:56 combo sshd(pam_unix)[24474]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=146.164.89.10  user=nobody
+Jun 15 12:12:34 combo sshd(pam_unix)[23404]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+Oct 10 04:02:44 combo sshd(pam_unix)[16524]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=142.179.221.122  user=test
+Sep 13 04:04:41 combo sshd(pam_unix)[26659]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=yang.dorm13.nctu.edu.tw  user=nobody
+Feb 22 13:26:34 combo sshd(pam_unix)[6020]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.194.58.127  user=root
+Jan 13 17:47:03 combo sshd(pam_unix)[22939]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.72.254.36
+Dec  1 13:22:52 combo sshd(pam_unix)[16883]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.3
+Nov 13 08:57:55 combo sshd(pam_unix)[20768]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ridsdale.plus.com
+Feb  6 01:42:08 combo sshd(pam_unix)[4107]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.86.92.242  user=root
+Nov 22 02:38:23 combo sshd(pam_unix)[30877]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.183.248.130
+Jul 10 16:02:40 combo sshd(pam_unix)[30628]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jun 29 10:08:19 combo sshd(pam_unix)[15476]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+Aug 29 07:22:51 combo sshd(pam_unix)[841]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.82.197.48  user=root
+Sep  4 10:31:03 combo sshd(pam_unix)[27568]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.74.86.1
+Nov 18 10:40:59 combo sshd(pam_unix)[10230]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-dynamic-pool-xxx.fpt.vn
+Feb 10 07:43:21 combo sshd(pam_unix)[4552]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.0.200.7
+Aug 31 13:28:05 combo sshd(pam_unix)[8028]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.178.126.40  user=root
+Oct  1 06:50:49 combo sshd(pam_unix)[12385]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=llekm-static-203.200.147.8.vsnl.net.in
+Feb 27 06:47:17 combo sshd(pam_unix)[6671]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host81-137-10-194.in-addr.btopenworld.com
