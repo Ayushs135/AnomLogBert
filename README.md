@@ -110,9 +110,10 @@ Actual: Anomaly      4                 1329
 
 ## ✍️ Authors
 
-- Siddharth Yadav
-- Ayush Shukla
-- Sujal Chhajed
+- [Ayush Shukla](https://github.com/Ayushs135)
+- [Siddharth Yadav](https://github.com/Siddharth-Y26)
+- [Sujal Chhajed](https://github.com/Dragonballsuper-1995)
+
 
 ---
 
