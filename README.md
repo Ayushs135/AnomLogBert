@@ -82,7 +82,7 @@ Ensure the paths to the following files are correct in your script:
 
 ### ➤ BERT Encoder
 - `all-MiniLM-L12-v2` Sentence-BERT
-- Output: 384-dimensional embeddings
+- Output: 384 dimensional embeddings
 
 ### ➤ Neural Network
 - Input: 384-dim BERT embedding
