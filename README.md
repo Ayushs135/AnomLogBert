@@ -82,7 +82,7 @@ Ensure the paths to the following files are correct in your script:
 
 ### ➤ BERT Encoder
 - `all-MiniLM-L12-v2` Sentence-BERT
-- Output: 384-dimensional embeddings
+- Output: 384 dimensional embeddings
 
 ### ➤ Neural Network
 - Input: 384-dim BERT embedding
@@ -110,9 +110,10 @@ Actual: Anomaly      4                 1329
 
 ## ✍️ Authors
 
-- Siddharth Yadav
-- Ayush Shukla
-- Sujal Chhajed
+- [Ayush Shukla](https://github.com/Ayushs135)
+- [Siddharth Yadav](https://github.com/Siddharth-Y26)
+- [Sujal Chhajed](https://github.com/Dragonballsuper-1995)
+
 
 ---
 
