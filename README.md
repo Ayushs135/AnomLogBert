@@ -6,6 +6,8 @@
 
 This project is designed to enhance system reliability by detecting security threats, hardware failures, and abnormal behaviors in logs without relying on traditional rule-based or parsing approaches.
 
+👉 [Try the App on Hugging Face 🚀](https://huggingface.co/spaces/ayush-shukla135/AnomLogBert)
+
 ---
 
 ## 🧾 Key Features
